@@ -1,35 +1,163 @@
+<!DOCTYPE html>
 <html>
-
 <head>
 <title>Yanting Zhang</title>
-<style type="text/css">
-	#left-column {
-    	float: left;
-    	width: 250px;
-	height: 500px;
-	}
-	#right-column {
-    	margin-left: 250px;
-    	padding-right: 30px;
-	}
-	img{
- 	width:auto;
- 	height:auto;
- 	max-width:100%;
- 	max-height:100%;
-	}
-</style>
+
+<meta name="viewport" content="width=device-width"/>
+<meta name="description" content="The Curriculum Vitae of Joe Bloggs."/>
+<meta charset="UTF-8"> 
+
+<link type="text/css" rel="stylesheet" href="style.css">
+<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700|Lato:400,300' rel='stylesheet' type='text/css'>
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
 </head>
-
-<body>
-	<div id = "doc">
-		<div id = "left-column">
-			<img src="./IMG_9338.JPG" />
+<body id="top">
+<div id="cv" class="instaFade">
+	<div class="mainDetails">
+		<div id="headshot" class="quickFade">
+			<img src="zyt.jpg" alt="Yanting Zhang" />
 		</div>
-		<div id = "right-column">
-			<p>Hello World</p>
+		
+		<div id="name">
+			<h1 class="quickFade delayTwo">Yanting Zhang</h1>
+			<h2 class="quickFade delayThree">Ph.D. Student</h2>
 		</div>
+		
+		<div id="contactDetails" class="quickFade delayFour">
+			<ul>
+				<li>e: <a href="mailto:joe@bloggs.com" target="_blank">zhangyt@bupt.edu.cn</a></li>
+				<li>m: +86 18801169082</li>
+			</ul>
+		</div>
+		<div class="profileContent">
+			<p>Hi! I am a Ph.D. student from Beijing University of Posts and Telecommunications (BUPT). I am the student member at the Center for Data Science in BUPT. My adviser is Jie Yang.
+			<br>
+			My primary research interest lies in data mining. In particular, I enjoy urban computing and human behavior learning based on big data analytics. I love such subjecets as they are so meaningful to help people make data-driven decisions.
+			Here is my <a href="CV_YantingZhang.pdf">C.V.</a>
+			</p>
+		</div>
+		<div class="clear"></div>
 	</div>
-</body>
+	
+	<div id="mainArea" class="quickFade delayFive">
+		<section>
+			<div class="sectionTitle">
+				<h1>Education</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h3>Beijing Laboratory of Advanced Information Networks/BUPT</h3>
+					<p class="subDetails">September 2016 - Present</p>
+					<p>Now I am a Ph.D. student here, exploring the big data.</p>
+				</article>
+				
+				<article>
+					<h3>Digital Media Technology/BUPT</h3>
+					<p class="subDetails">September 2011 - July 2015</p>
+					<p>During the 4 years' study, I received the B.E. degree. The GPA is 88.7/100. </p>
+				</article>
+			</div>
+			<div class="clear"></div>
+		</section>
 
+
+		<section>
+			<div class="sectionTitle">
+				<h1>Projects</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h3>An Analysis on Overlap and Mutual Enlargement of Online and Offline Social Networks</h3>
+					<p class="subDetails">September 2016 - Present</p>
+					<p>Studied the offline mobility pattern, online shopping interests, and correlation between online and offline social networks based on large scale mobile data.</p>
+				</article>
+				
+				<article>
+					<h3>Research on Network Computing Model of Urban Functional Area and Its Evolution</h3>
+					<p class="subDetails">May 2017 - Present</p>
+					<p>Explored city structure and urban functional composition from mobile big data.</p>
+				</article>
+
+			</div>
+			<div class="clear"></div>
+		</section>
+
+
+		<section>
+			<div class="sectionTitle">
+				<h1>Publications</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h4>A Hybrid Markov-based Model for Human Mobility Prediction</h4>
+					<p class="subDetails-p">Neurocomputing. 2017. First student author.</p>
+				</article>
+				
+				<article>
+					<h4>Discovering Online Shopping Preferences in Different Urban Area from the View of Mobile Traffic Patterns</h4>
+					<p class="subDetails-p">IJCAI Workshop. 2017. First author. </p>
+				</article>
+
+				<article>
+					<h4>Understanding Online Shopping and Offline Mobility Behavior in Urban Area from the View of Multilayer Network</h4>
+					<p class="subDetails-p">IC-NIDC. 2016. First student author. Best paper award.</p>
+				</article>
+				
+				<article>
+					<h4>From Commuting to Spatial Structure of Cities: Analysis Based on Mobile Big Data</h4>
+					<p class="subDetails-p">First author. Submitted under review.</p>
+				</article>
+
+				<article>
+					<h4>Analyze Users’ Online Shopping Behavior Using Online Interest-Product Network</h4>
+					<p class="subDetails-p">Second student author. Submitted under review.</p>
+				</article>
+
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		
+		
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Hobbies</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<ul class="keySkills">
+					<li>Painting</li>
+					<li>Travelling</li>
+					<li>Cinema</li>
+					<li>Mystery novel</li>
+					<li>Badminton</li>
+					<li>Table tennis</li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		
+		
+		
+	</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3753241-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
 </html>
