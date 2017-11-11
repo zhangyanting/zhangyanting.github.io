@@ -22,6 +22,15 @@ p {
 	color: #444;
 }
 
+a{
+color:#00649F;
+text-decoration:none;
+}
+
+a:hover{
+text-decoration:underline;
+}
+
 strong, b {
     font-weight: bold;
 }
@@ -110,12 +119,13 @@ strong, b {
 	-o-transition: all .1s ease-in;
 	-ms-transition: all .1s ease-in;
 	transition: all .1s ease-in;
-}
-
-#sectionContent li, a:hover { 
-	color: #cf8a05;
 }*/
 
+/*#sectionContent a { 
+	color: #267ed5;
+    text-decoration: none;
+}
+*/
 
 section {
 	border-top: 1px solid #dedede;
@@ -214,6 +224,19 @@ section:last-child {
 	margin-bottom: 3px;
 }
 
+.keyCourses {
+	list-style-type: none;
+	-moz-column-count:2;
+	-webkit-column-count:2;
+	column-count:2;
+	margin-bottom: 20px;
+	font-size: 1em;
+	color: #444;
+}
+
+.keyCourses ul li {
+	margin-bottom: 3px;
+}
 
 
 
