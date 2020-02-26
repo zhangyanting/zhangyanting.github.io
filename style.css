@@ -84,6 +84,9 @@ strong, b {
 
 #contact {
 	float: right;
+	list-style-type: none;
+	font-size: 0.9em;
+	margin-top: 10px;
 }
 
 #contactDetails {
