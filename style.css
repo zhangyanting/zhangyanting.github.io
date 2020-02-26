@@ -82,9 +82,14 @@ strong, b {
 	float: left;
 }
 
+#contact {
+	float: right;
+}
+
 #contactDetails {
 	float: right;
 }
+
 
 #contactDetails ul {
 	list-style-type: none;
@@ -94,7 +99,7 @@ strong, b {
 
 #contactDetails ul li {
 	margin-bottom: 3px;
-	color: #444;
+	color: #cf8a05;
 }
 
 #contactDetails ul li a, a[href^=tel] {
@@ -184,8 +189,10 @@ section:last-child {
 .sectionContent h4 {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-size: 1.2em;
-	margin-bottom: -2px;
+	/*margin-bottom: -2px;*/
 }
+
+
 
 .foot p {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
@@ -200,8 +207,14 @@ section:last-child {
 
 .subDetails {
 	font-size: 0.8em;
-	font-style: italic;
+	/*font-style: italic;*/
 	margin-bottom: 10px;
+}
+
+.subDetails_pb {
+	font-size: 0.9em;
+	/*font-style: italic;*/
+	margin-bottom: 6px;
 }
 
 .subDetails-p {
@@ -218,6 +231,8 @@ section:last-child {
 	margin-bottom: 20px;
 	font-size: 1em;
 	color: #444;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-size: 1.2em;
 }
 
 .keySkills ul li {
@@ -232,6 +247,8 @@ section:last-child {
 	margin-bottom: 20px;
 	font-size: 1em;
 	color: #444;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	/*font-size: 1.2em;*/
 }
 
 .keyCourses ul li {
