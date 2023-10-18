@@ -5,10 +5,12 @@ on:
     branches:
       - master
       - main
+      - feature/add
   pull_request:
     branches:
       - master
       - main
+      - feature/add
   workflow_dispatch:
 
 permissions:
