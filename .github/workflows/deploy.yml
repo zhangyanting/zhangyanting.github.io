@@ -4,12 +4,12 @@ on:
   push:
     branches:
       - master
-      -main
+      - main
       - feature/add 
   pull_request:
     branches:
       - master
-      -main
+      - main
       - feature/add 
   workflow_dispatch:
 
