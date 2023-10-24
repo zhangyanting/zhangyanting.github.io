@@ -1,12 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yanting Zhang",
+    "label": "Lecturer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ytzhang@dhu.edu.cn",
+    "phone": "188-0116-9082",
+    "url": "https://cst.dhu.edu.cn/2020/1201/c3131a270546/page.htm",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,30 +23,32 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Dong Hua University",
+      "position": "Lecturer",
+      "url": "https://cst.dhu.edu.cn/2020/1201/c3131a270546/page.htm",
+      "startDate": "2020.09",
+      "endDate": "now",
       "highlights": [
-        "Relativity"
+        "Deep Learning",
+        "Computer Vision"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Beijing University of Post and Telecommunications",
+      "area": "Information and Communication Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "startDate": "2015-09",
+      "endDate": "2020-07"
+    },
+    {
+      "institution": "Beijing University of Post and Telecommunications",
+      "area": "Digital Media Technology",
+      "studyType": "Bechelor",
+      "startDate": "2011-09",
+      "endDate": "2015-07"
     }
   ],
   "awards": [

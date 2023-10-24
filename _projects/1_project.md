@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: AI Traffic
+description: Multi-object tracking (MOT), Cross-camera tracking
+img: assets/img/iccvw.jpg
+redirect: #ai-traffic
 importance: 1
-category: work
+category: research interests
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 

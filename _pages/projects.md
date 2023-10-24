@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: research interest and full paper.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [research interests, full paper]
 horizontal: false
 ---
 
@@ -56,3 +56,393 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+
+<!-- (* Equal contribution, † Interns, # Corresponding authors) -->
+<div class="section" id="full-paper">
+    <h2>2023</h2>
+    <div class="paper">
+        <ul>
+            <td>
+                <b>1. Zhang Y, Wang S, Fan Y, et al. TransLink: Transformer-Based Embedding for Tracklets’ Global Link[C]//ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023: 1-5..</b>
+                <br>
+                <a href="https://ieeexplore.ieee.org/abstract/document/10097136/">[Paper]</a>
+                <br>
+            </td>
+            <td>
+                <b>32. InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions</b>
+                <br><a href="https://arxiv.org/pdf/2211.05778.pdf">[Paper]</a>
+                <a href="https://github.com/OpenGVLab/InternImage">[Code]</a>
+                <a href="../bibtex/CVPR_2023_InternImage.txt">[BibTex]</a>
+                <br>
+                <strong>Wenhai Wang*</strong>, Jifeng Dai*, Zhe Chen*†, Zhenhang Huang*, Zhiqi Li*†, Xizhou Zhu*, Xiaowei Hu, Tong Lu, Lewei Lu, Hongsheng Li, Xiaogang Wang, Yu Qiao#
+                <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. <alert>(Highlight Paper (2.5%))</alert>
+                <br><br>
+            </td>
+            <td>
+                <b>31. Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks</b>
+                <br><a href="https://arxiv.org/abs/2211.09808">[Paper]</a>
+                <a href="https://github.com/fundamentalvision/Uni-Perceiver">[Code]</a>
+                <a href="../bibtex/CVPR_2023_UniPv2.txt">[BibTex]</a>
+                <br>
+                Hao Li, Jinguo Zhu, Xiaohu Jiang, Xizhou Zhu, Hongsheng Li, Chun Yuan, Xiaohua Wang, Yu Qiao, Xiaogang Wang, <strong>Wenhai Wang</strong>, Jifeng Dai
+                <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. <alert>(Highlight Paper (2.5%))</alert>
+                <br><br>
+            </td>
+            <td>
+                <b>30. Goal-oriented Autonomous Driving</b>
+                <br><a href="https://arxiv.org/abs/2212.10156">[Paper]</a>
+                <a href="https://github.com/OpenDriveLab/UniAD">[Code]</a>
+                <a href="../bibtex/CVPR_2023_UniAD.txt">[BibTex]</a>
+                <br>
+                Yihan Hu, Jiazhi Yang, Li Chen, Keyu Li, Chonghao Sima, Xizhou Zhu, Siqi Chai, Senyao Du, Tianwei Lin, <strong>Wenhai Wang</strong>, Lewei Lu, Xiaosong Jia, Qiang Liu, Jifeng Dai, Yu Qiao, Hongyang Li
+                <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. <alert>(Best Paper Award)</alert>
+                <br><br>
+            </td>
+            <td>
+                <b>29. Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers</b>
+                <br><a href="https://arxiv.org/pdf/2108.06932.pdf">[Paper]</a>
+                <a href="https://github.com/DengPingFan/Polyp-PVT">[Code]</a>
+                <a href="../bibtex/CAAI_AIR_2023_Polyp_PVT.txt">[BibTex]</a>
+                <br>Bo Dong, <strong>Wenhai Wang</strong>, Deng-Ping Fan#, Jinpeng Li, Huazhu Fu, Ling Shao
+                <br>CAAI Artificial Intelligence Research (CAAI AIR), 2023</alert>
+                <br><br>
+            </td>
+            <td>
+                <b>28. Vision Transformer Adapter for Dense Predictions</b>
+                <br><a href="https://arxiv.org/pdf/2205.08534.pdf">[Paper]</a>
+                <a href="https://github.com/czczup/ViT-Adapter">[Code]</a>
+                <a href="../bibtex/ICLR_2023_ViT_Adapter.txt">[BibTex]</a>
+                <br>Zhe Chen*†, Yuchen Duan*†, <strong>Wenhai Wang#</strong>, Junjun He, Tong Lu, Jifeng Dai, Yu Qiao
+                <br>International Conference on Learning Representations (ICLR), 2023. <alert>(Spotlight Paper (8.0%))</alert>
+                <br><br>
+            </td>
+        </ul>
+    </div>
+</div>
+
+<div class="section">
+    <h2>2022</h2>
+    <div class="paper">
+        <ul>
+            <td>
+                <b>27. Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs</b>
+                <br><a href="https://arxiv.org/pdf/2206.04674.pdf">[Paper]</a>
+                <a href="https://github.com/fundamentalvision/Uni-Perceiver">[Code]</a>
+                <a href="../bibtex/NeurIPS_2022_UniP_MoE.txt">[BibTex]</a>
+                <br>Jinguo Zhu, Xizhou Zhu, <strong>Wenhai Wang</strong>, Xiaohua Wang, Hongsheng Li, Xiaogang Wang, Jifeng Dai#
+                <br>Neural Information Processing Systems (NeurIPS), 2022.
+                <br><br>
+            </td>
+            <td>
+                <b>26. On efficient reinforcement learning for full-length game of StarCraft II</b>
+                <br><a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>Ruoze Liu, Zhenjia Pang, Zhouyu Meng, <strong>Wenhai Wang</strong>, Yang Yu#, Tong Lu#
+                <br>Journal of Artificial Intelligence Research (JAIR), 2022.
+                <br><br>
+            </td>
+            <td>
+                <b>25. BEVFormer: Learning Bird’s-Eye-View Representation from Multi-Camera Images via Spatiotemporal
+                    Transformers</b>
+                <br><a href="https://arxiv.org/pdf/2203.17270.pdf">[Paper]</a>
+                <a href="https://github.com/fundamentalvision/BEVFormer">[Code]</a>
+                <!-- <a href="https://www.bilibili.com/video/BV17q4y1e7He?spm_id_from=333.999.0.0">[Demo, bilibili]</a>
+                <a href="https://www.youtube.com/watch?v=n-cM32B9Iyw&ab_channel=%E6%9D%8E%E5%BF%97%E7%90%A6">[Demo, YouTube]</a> -->
+                <a href="../bibtex/ECCV_2022_BEVFormer.txt">[BibTex]</a>
+                <a href="https://www.paperdigest.org/2023/01/most-influential-eccv-papers-2023-01/">[ECCV 2022' Top-10
+                    Influential Papers]</a>
+                <a href="https://www.zeta-alpha.com/post/must-read-the-100-most-cited-ai-papers-in-2022">[100 Most Cited AI Papers in 2022]</a>
+                <br>Zhiqi Li*†, <strong>Wenhai Wang*</strong>, Hongyang Li*, Enze Xie, Chonghao Sima, Tong Lu, Yu Qiao,
+                Jifeng Dai#
+                <br>European Conference on Computer Vision (ECCV), 2022.
+                <br><br>
+            </td>
+            <td>
+                <b>24. VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual
+                    Recognition</b>
+                <br><a href="https://arxiv.org/pdf/2111.13579.pdf">[Paper]</a>
+                <a href="https://github.com/ChangyaoTian/VL-LTR">[Code]</a>
+                <a href="../bibtex/ECCV_2022_VL_LTR.txt">[BibTex]</a>
+                <br>Changyao Tian*†, <strong>Wenhai Wang*</strong>, Xizhou Zhu*, Xiaogang Wang, Jifeng Dai#, Yu Qiao
+                <br>European Conference on Computer Vision (ECCV), 2022.
+                <br><br>
+            </td>
+            <td>
+                <b>23. Incremental Few-Shot Semantic Segmentation via Embedding Adaptive-Update and Hyper-class Representation</b>
+                <br><a href="https://arxiv.org/pdf/2207.12964.pdf">[Paper]</a>
+                <!-- <a href="">[Code]</a> -->
+                <a href="../bibtex/ACM_MM_2022_EHNET.txt">[BibTex]</a>
+                <br>Guangchen Shi, Yirui Wu#, Jun Liu, Shaohua Wan, <strong>Wenhai Wang</strong>, Tong Lu
+                <br>ACM International Conference on Multimedia (ACM MM), 2022.
+                <br><br>
+            </td>
+            <td>
+                <b>22. Generalized Focal Loss: Towards Efficient Representation Learning for Dense Object
+                    Detection</b>
+                <br><a href="https://ieeexplore.ieee.org/document/9792391">[Paper]</a>
+                <a href="https://github.com/implus/GFocal">[Code]</a>
+                <a href="../bibtex/TPAMI_2022_GFocal.txt">[BibTex]</a>
+                <br>Xiang Li, Chengqi Lv, <strong>Wenhai Wang</strong>, Gang Li, Lingfeng Yang, Jian Yang#
+                <br>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. <alert>(ESI Highly Cited Paper (1%))</alert>
+                <br><br>
+            </td>
+            <td>
+                <b>21. Panoptic SegFormer: Delving Deeper into Panoptic Segmentation with Transformers</b>
+                <br><a href="https://arxiv.org/pdf/2109.03814.pdf">[Paper]</a>
+                <a href="https://github.com/zhiqi-li/Panoptic-SegFormer">[Code]</a>
+                <a href="../bibtex/CVPR_2022_Panoptic_Segformer.txt">[BibTex]</a>
+                <br>Zhiqi Li, <strong>Wenhai Wang#</strong>, Enze Xie, Zhiding Yu, Anima Anandkumar, Jose M.
+                Alvarez,
+                Tong
+                Lu#, Ping Luo
+                <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+                <br><br>
+            </td>
+            <td>
+                <b>20. PVT v2: Improved Baselines with Pyramid Vision Transformer</b>
+                <br><a href="https://link.springer.com/article/10.1007/s41095-022-0274-8">[Paper]</a>
+                <!--        <a href="https://xieenze.github.io/projects/TransLAB/TransLAB.html"><font color=""><font color=blue>[Dataset]</font></font></a>-->
+                <!--        <a href="../posters/IJCAI_2018_MixNet.pdf"><font color=""><font color=blue>[Poster]</font></font></a>-->
+                <a href="https://github.com/whai362/PVT">[Code]</a>
+                <a href="https://zhuanlan.zhihu.com/p/353222035">[中文解读]</a>
+                <a href="../reports/wangwenhai_vision_transformer.pdf">[Report]</a>
+                <a href="https://www.techbeat.net/talk-info?id=562">[Talk]</a>
+                <a href="../bibtex/CVMJ_2021_PVTv2.txt">[BibTex]</a>
+                <br><strong>Wenhai Wang#</strong>, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong
+                Lu,
+                Ping
+                Luo, Ling Shao
+                <br>Computational Visual Media Journal (CVMJ), 2022. <alert>(ESI Highly Cited Paper (1%), ESI Hot Paper (0.1%), Best Paper Honorable Mention Award)</alert>
+                <br><br>
+            </td>
+            <td>
+                <b>19. Towards Ultra-Resolution Neural Style Transfer via Thumbnail Instance Normalization</b>
+                <br><a href="https://arxiv.org/pdf/2103.11784.pdf">[Paper]</a>
+                <a href="https://github.com/czczup/URST">[Code]</a>
+                <a href="../bibtex/AAAI_2022_URST.txt">[BibTex]</a>
+                <br>Zhe Chen†, <strong>Wenhai Wang#</strong>, Enze Xie, Tong Lu#, Ping Luo
+                <br>Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI), 2022.
+                <br><br>
+            </td>
+        </ul>
+    </div>
+</div>
+
+
+<div class="section">
+    <h2>2021</h2>
+    <div class="paper">
+        <ul>
+            <td>
+                <b>18. Grid Dividing for Single-Stage Instance Segmentation</b>
+                <br><strong>Wenhai Wang</strong>, Zhiqi Li, Tong Lu#
+                <br>Journal of Software (JoS), 2021 (in Chinese).
+                <br><br>
+            </td>
+            <td>
+                <b>17. SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers</b>
+                <br><a
+                    href="https://proceedings.neurips.cc/paper/2021/file/64f1f27bf1b4ec22924fd0acb550c235-Paper.pdf">[Paper]</a>
+                <a href="https://github.com/NVlabs/SegFormer">[Code]</a>
+                <a href="https://zhuanlan.zhihu.com/p/379054782">[中文解读]</a>
+                <a href="https://www.bilibili.com/video/BV1MV41147Ko/">[Demo]</a>
+                <a href="../bibtex/NeurIPS_2021_SegFormer.txt">[BibTex]</a>
+                <a href="https://www.paperdigest.org/2022/02/most-influential-nips-papers-2022-02/">[NeurIPS21'
+                    Top-10
+                    Influential Papers]</a>
+                <br>Enze Xie, <strong>Wenhai Wang</strong>, Zhiding Yu#, Anima Anandkuma, Jose M. Alvarez, Ping Luo#
+                <br>Neural Information Processing Systems (NeurIPS), 2021.
+                <br><br>
+            </td>
+            <td>
+                <b>16. Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without
+                    Convolutions</b>
+                <br><a
+                    href="https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Pyramid_Vision_Transformer_A_Versatile_Backbone_for_Dense_Prediction_Without_ICCV_2021_paper.pdf">[Paper]</a>
+                <a href="https://github.com/whai362/PVT">[Code]</a>
+                <a href="../reports/PVT_Chinese.pdf">[中译版]</a>
+                <a href="https://zhuanlan.zhihu.com/p/353222035">[中文解读]</a>
+                <a href="../reports/wangwenhai_vision_transformer.pdf">[Report]</a>
+                <a href="https://www.techbeat.net/talk-info?id=562">[Talk]</a>
+                <a href="../bibtex/ICCV_2021_PVT.txt">[BibTex]</a>
+                <a href="https://www.paperdigest.org/2022/02/most-influential-iccv-papers-2022-02/">[ICCV21' Top-10
+                    Influential Papers]</a>
+                <br><strong>Wenhai Wang</strong>, Enze Xie, Xiang Li, Deng-Ping Fan#, Kaitao Song, Ding Liang, Tong
+                Lu#, Ping Luo, Ling Shao
+                <br>
+                IEEE/CVF International Conference on Computer Vision (ICCV), 2021. <alert>(Oral Presentation (3.4%), 2023 World Artificial Intelligence Conference Youth Outstanding Paper Award)</alert>
+                <br><br>
+            </td>
+            <td>
+                <b>15. DetCo: Unsupervised Contrastive Learning for Object Detection</b>
+                <br><a
+                    href="https://openaccess.thecvf.com/content/ICCV2021/papers/Xie_DetCo_Unsupervised_Contrastive_Learning_for_Object_Detection_ICCV_2021_paper.pdf">[Paper]</a>
+                <a href="../bibtex/ICCV_2021_DetCo.txt">[BibTex]</a>
+                <br>Enze Xie*, Jian Ding*, <strong>Wenhai Wang</strong>, Xiaohang Zhan, Hang Xu, Zhenguo Li, Ping
+                Luo#
+                <br>IEEE/CVF International Conference on Computer Vision (ICCV), 2021.
+                <br><br>
+            </td>
+            <td>
+                <b>14. PAN++: Towards Efficient and Accurate End-to-End Spotting of Arbitrarily-Shaped Text</b>
+                <br><a href="https://ieeexplore.ieee.org/document/9423611">[Paper]</a>
+                <a href="https://github.com/whai362/pan_pp.pytorch">[Code]</a>
+                <a href="../bibtex/TPAMI_2021_PAN++.txt">[BibTex]</a>
+                <br><strong>Wenhai Wang*</strong>, Enze Xie*, Xiang Li, Xuebo Liu, Ding Liang, Zhibo Yang, Tong Lu#,
+                Chunhua
+                Shen
+                <br>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.
+                <br><br>
+            </td>
+            <td>
+                <b>13. PolarMask++: Enhanced Polar Representation for Single-Shot Instance Segmentation and
+                    Beyond</b>
+                <br><a href="https://ieeexplore.ieee.org/document/9431650">[Paper]</a>
+                <a href="https://github.com/xieenze/PolarMask">[Code]</a>
+                <a href="../bibtex/TPAMI_2021_PolarMask++.txt">[BibTex]</a>
+                <br>Enze Xie*, <strong>Wenhai Wang*</strong>, Mingyu Ding, Ruimao Zhang, Ping Luo#
+                <br>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.
+                <br><br>
+            </td>
+            <td>
+                <b>12. Segmenting Transparent Object in the Wild with Transformer</b>
+                <br><a href="https://www.ijcai.org/proceedings/2021/0165.pdf">[Paper]</a>
+                <a href="../bibtex/IJCAI_2021_Trans2Seg.txt">[BibTex]</a>
+                <br>Enze Xie, Wenjia Wang, <strong>Wenhai Wang</strong>, Peize Sun, Hang Xu, Ding Liang, Ping Luo#
+                <br>International Joint Conference on Artificial Intelligence (IJCAI), 2021.
+                <br><br>
+            </td>
+            <td>
+                <b>11. Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object
+                    Detection</b>
+                <br><a
+                    href="https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Generalized_Focal_Loss_V2_Learning_Reliable_Localization_Quality_Estimation_for_CVPR_2021_paper.pdf">[Paper]</a>
+                <a href="https://github.com/implus/GFocalV2">[Code]</a>
+                <a href="../bibtex/CVPR_2021_GFLv2.txt">[BibTex]</a>
+                <br>Xiang Li, <strong>Wenhai Wang</strong>, Xiaolin Hu, Jun Li, Jinhui Tang, Jian Yang#
+                <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
+                <br><br>
+            </td>
+        </ul>
+    </div>
+</div>
+
+<div class="section">
+    <h2>2018-2020</h2>
+    <div class="paper">
+        <ul>
+            <td>
+                <b>10. Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object
+                    Detection</b>
+                <br><a
+                    href="https://proceedings.neurips.cc/paper/2020/file/f0bda020d2470f2e74990a07a607ebd9-Paper.pdf">[Paper]</a>
+                <a href="https://github.com/implus/GFocal">[Code]</a>
+                <a href="../bibtex/NeurIPS_2020_GFocal.txt">[BibTex]</a>
+                <br>Xiang Li, <strong>Wenhai Wang</strong>, Lijun Wu, Shuo Chen, Xiaolin Hu, Jun Li, Jinhui Tang,
+                Jian
+                Yang#
+                <br>Neural Information Processing Systems (NeurIPS), 2020.
+                <br><br>
+
+                <b>9. AE TextSpotter: Learning Visual and Linguistic Representation for Ambiguous Text Spotting</b>
+                <br><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590443.pdf">[Paper]</a>
+                <a href="https://github.com/whai362/TDA-ReCTS">[Dataset]</a>
+                <a href="https://github.com/whai362/AE_TextSpotter">[Code]</a>
+                <a href="../bibtex/ECCV_2020_AE_TextSpotter.txt">[BibTex]</a>
+                <br><strong>Wenhai Wang</strong>, Xuebo Liu, Xiaozhong Ji, Enze Xie, Ding Liang, ZhiBo Yang, Tong
+                Lu#,
+                Chunhua
+                Shen, Ping Luo
+                <br>European Conference on Computer Vision (ECCV), 2020.
+                <br><br>
+
+                <b>8. Segmenting Transparent Objects in the Wild</b>
+                <br><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580681.pdf">[Paper]</a>
+                <a href="https://xieenze.github.io/projects/TransLAB/TransLAB.html">[Dataset]</a>
+                <a href="../bibtex/ECCV_2020_TransLab.txt">[BibTex]</a>
+                <br>Enze Xie, Wenjia Wang, <strong>Wenhai Wang</strong>, Mingyu Ding, Chunhua Shen, Ping Luo#
+                <br>European Conference on Computer Vision (ECCV), 2020.
+                <br><br>
+
+                <b>7. Differentiable Hierarchical Graph Grouping for Multi-Person Pose Estimation</b>
+                <br><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520698.pdf">[Paper]</a>
+                <a href="../bibtex/ECCV_2020_Differentiable.txt">[BibTex]</a>
+                <br>Sheng Jin, Wentao Liu, Enze Xie, <strong>Wenhai Wang</strong>, Chen Qian, Wanli Ouyang, Ping
+                Luo#
+                <br>European Conference on Computer Vision (ECCV), 2020.
+                <br><br>
+
+                <b>6. Scene Text Image Super-Resolution in the Wild</b>
+                <br><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550647.pdf">[Paper]</a>
+                <a href="../bibtex/ECCV_2020_TextSR.txt">[BibTex]</a>
+                <br>Wenjia Wang*, Enze Xie*, Xuebo Liu, <strong>Wenhai Wang</strong>, Ding Liang, Xiang Bai, Chunhua
+                Shen
+                <br>European Conference on Computer Vision (ECCV), 2020.
+                <br><br>
+
+                <b>5. PolarMask: Single Shot Instance Segmentation with Polar Representation</b>
+                <br><a
+                    href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Xie_PolarMask_Single_Shot_Instance_Segmentation_With_Polar_Representation_CVPR_2020_paper.pdf">[Paper]</a>
+                <a href="https://github.com/xieenze/PolarMask">[Code]</a>
+                <a href="https://zhuanlan.zhihu.com/p/84890413">[中文解读]</a>
+                <a
+                    href="https://www.bilibili.com/video/BV1dp4y1C7Ee?from=search&amp;seid=7560478987246751367">[Talk]</a>
+                <a href="../bibtex/CVPR_2020_PolarMask.txt">[BibTex]</a>
+                <a href="https://www.paperdigest.org/2021/02/most-influential-cvpr-papers/">[CVPR20' Top-10
+                    Influential
+                    Papers]</a>
+                <br>Enze Xie*, Peize Sun*, Xiaoge Song*, <strong>Wenhai Wang</strong>, Chunhua Shen, Ping Luo#
+                <br>
+                <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020. <alert>(Oral Presentation (5.7%))</alert>
+                <br><br>
+            </td>
+
+            <td>
+                <b>4. Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network</b>
+                <br><a
+                    href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Efficient_and_Accurate_Arbitrary-Shaped_Text_Detection_With_Pixel_Aggregation_Network_ICCV_2019_paper.pdf">[Paper]</a>
+                <a href="../posters/ICCV_2019_PAN.pdf">[Poster]</a>
+                <a href="https://github.com/whai362/pan_pp.pytorch">[Code]</a>
+                <a href="../bibtex/ICCV_2019_PAN.txt">[BibTex]</a>
+                <br><strong>Wenhai Wang*</strong>, Enze Xie*, Xiaoge Song, Yuhang Zang, Wenjia Wang, Tong Lu#, Gang
+                Yu,
+                Chunhua
+                Shen
+                <br>IEEE/CVF International Conference on Computer Vision (ICCV), 2019.
+                <br><br>
+
+                <b>3. Shape Robust Text Detection with Progressive Scale Expansion Network</b>
+                <br><a
+                    href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Shape_Robust_Text_Detection_With_Progressive_Scale_Expansion_Network_CVPR_2019_paper.pdf">[Paper]</a>
+                <a href="../posters/CVPR_2019_PSENet.pdf">[Poster]</a>
+                <a href="https://github.com/whai362/PSENet">[Code]</a>
+                <a href="../bibtex/CVPR_2019_PSENet.txt">[BibTex]</a>
+                <br><strong>Wenhai Wang*</strong>, Enze Xie*, Xiang Li*, Wenbo Hou, Tong Lu#, Gang Yu, Shuai Shao
+                <br>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
+                <br><br>
+
+                <b>2. Selective Kernel Networks</b>
+                <br><a
+                    href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Selective_Kernel_Networks_CVPR_2019_paper.pdf">[Paper]</a>
+                <a href="https://github.com/implus/SKNet">[Code]</a>
+                <a href="../bibtex/CVPR_2019_SKNet.txt">[BibTex]</a>
+                <br>Xiang Li, <strong>Wenhai Wang</strong>, Xiaolin Hu, Jian Yang#
+                <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
+                <br><br>
+
+                <b>1. Mixed Link Networks</b>
+                <br><a href="https://www.ijcai.org/Proceedings/2018/0391.pdf">[Paper]</a>
+                <a href="../posters/IJCAI_2018_MixNet.pdf">[Poster]</a>
+                <a href="https://github.com/DeepInsight-PCALab/MixNet">[Code]</a>
+                <a href="../bibtex/IJCAI_2018_MixNet.txt">[BibTex]</a>
+                <br><strong>Wenhai Wang*</strong>, Xiang Li*, Jian Yang#, Tong Lu#
+                <br>
+                International Joint Conference on Artificial Intelligence (IJCAI), 2018. <alert>(Oral Presentation)</alert>
+                <br><br>
+            </td>
+        </ul>
+    </div>
+</div>
+
