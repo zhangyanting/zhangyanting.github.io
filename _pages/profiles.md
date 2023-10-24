@@ -57,7 +57,7 @@ nav_order: 6
   <div class="row">
     <div class="people-student">
       <div class="member-img">
-        <img class="img-fluid z-depth-1 rounded" src="../assets/img/members/wsh.jpeg" >
+        <img class="img-fluid z-depth-1 rounded" src="/assets/img/members/wsh.jpeg" >
       </div>
       <div class="more-info member-des">
         <h5>Shuanghong Wang</h5>
@@ -71,7 +71,7 @@ nav_order: 6
     </div>
     <div class="people-student">
       <div class="member-img">
-        <img class="img-fluid z-depth-1 rounded" src="../assets/img/members/ckw.jpg" >
+        <img class="img-fluid z-depth-1 rounded" src="/assets/img/members/ckw.jpg" >
       </div>
       <div class="more-info member-des">
         <h5>Kewei Chen</h5>
@@ -84,7 +84,7 @@ nav_order: 6
       </div>
     </div>
     <div class="people-student">
-      <img class="img-fluid z-depth-1 rounded" src="../assets/img/members/zhw.jpg" >
+      <img class="img-fluid z-depth-1 rounded" src="/assets/img/members/zhw.jpg" >
       <div class="more-info member-des">
         <h5>Huanwen Zheng</h5>
         <h6 class="text-muted">747247702@qq.com</h6>
