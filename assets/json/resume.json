@@ -23,7 +23,7 @@
   },
   "work": [
     {
-      "name": "Dong Hua University",
+      "name": "Donghua University",
       "position": "Lecturer",
       "url": "https://cst.dhu.edu.cn/2020/1201/c3131a270546/page.htm",
       "startDate": "2020.09",
@@ -114,16 +114,11 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
       "language": "English",
       "fluency": "Fluent"
     }
   ],
   "interests": [
-    
   ],
   "references": [],
   "projects": []
