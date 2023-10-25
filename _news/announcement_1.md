@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by ICASSP 2023 (CCFB).
+One paper was accepted by ICASSP 2023 (CCF-B).

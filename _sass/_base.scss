@@ -180,6 +180,10 @@ blockquote {
 
 .profile {
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 
   .more-info {
     margin-bottom: 5px;
@@ -190,6 +194,13 @@ blockquote {
       display: inline-block;
       margin: 0;
     }
+  }
+
+  img {
+    max-width: 150px;
+    height: 200px;
+    width: 150px;
+    object-fit: cover;
   }
 }
 

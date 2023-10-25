@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by ICME 2022 (CCFB).
+One paper was accepted by ICME 2022 (CCF-B).
