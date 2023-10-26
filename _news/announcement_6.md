@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by ICIP 2022 (CCF-C).
+One paper was accepted by ICIP 2022.

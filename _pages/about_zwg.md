@@ -1,3 +1,3 @@
-Wenguang Zeng is currently a 23rd master's student in the School of Computer Science and Technology of Donghua University advised by Dr. Yanting Zhang. His current research content is cross-view image geo-localization. Before that, he was an undergraduate student at the School of Computer Science, Beijing Information Science and Technology University, majoring in network engineering
+Wenguang Zeng (曾文广) is currently a 23rd master's student in the School of Computer Science and Technology of Donghua University advised by Dr. Yanting Zhang. His current research content is cross-view image geo-localization. Before that, he was an undergraduate student at the School of Computer Science, Beijing Information Science and Technology University, majoring in network engineering
 
-📧 email: 3201138217@qq.com
+📨 email: 3201138217@qq.com

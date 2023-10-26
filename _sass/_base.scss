@@ -183,7 +183,7 @@ blockquote {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
 
   .more-info {
     margin-bottom: 5px;
@@ -197,18 +197,27 @@ blockquote {
   }
 
   img {
-    max-width: 150px;
-    height: 200px;
-    width: 150px;
+    max-width: 250px;
+    height: 300px;
+    width: 200px;
     object-fit: cover;
   }
 }
+
 
 .profile.float-right {
   margin-left: 1rem;
 }
 
 .profile.float-left {
+  margin-right: 1rem;
+}
+
+.member.float-right {
+  margin-left: 1rem;
+}
+
+.member.float-left {
   margin-right: 1rem;
 }
 

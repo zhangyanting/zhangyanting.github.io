@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by ICCVW 2021 (CCF-A).  :sparkles: :smile:
+One paper was accepted by ICCVW 2021.  :sparkles: :smile:

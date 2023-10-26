@@ -1,3 +1,3 @@
-Huanwen Zheng is a master student in electronic information at Donghua University advised by Yanting Zhang. Previously, he was an undergraduate student at Donghua University. He is fortunate to have internship at Tsinghua University, advised by Professor Yebin Liu. His research interests include generative models, person re-identification, style transfer and domain adaptation.
+Huanwen Zheng (郑奂文) is a master student in electronic information at Donghua University advised by Yanting Zhang. Previously, he was an undergraduate student at Donghua University. <span style="color:rgb(181, 9, 172);">He is fortunate to have internship at Tsinghua University, advised by Professor Yebin Liu.</span> His research interests include generative models, person re-identification, style transfer and domain adaptation.
 
-📧 email: 747247702@qq.com
+📨 email: 747247702@qq.com

@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /member/
-title: member
+title: Member
 description: members of the lab 🌱.
 nav: true
 nav_order: 5

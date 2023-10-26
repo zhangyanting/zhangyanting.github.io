@@ -1,3 +1,3 @@
-Kewei Chen is a former undergraduate student of Donghua University who is now pursuing further studies in computer science. His current focus is on monocular 3D object detection in road scenes, while also paying attention to methods based on stereo or lidar information. Additionally, he has gained valuable experience in Java/kotlin development on both PC and Android platforms during his early work.
+Kewei Chen (陈可畏) is a former undergraduate student of Donghua University who is now pursuing further studies in computer science. His current focus is on monocular 3D object detection in road scenes, while also paying attention to methods based on stereo or lidar information. Additionally, he has gained valuable experience in Java/kotlin development on both PC and Android platforms during his early work.
 
-📧 email: afoxxvi@outlook.com
+📨 email: afoxxvi@outlook.com
