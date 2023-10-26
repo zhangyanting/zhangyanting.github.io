@@ -6,7 +6,7 @@ description: teaching courses.
 display_categories: [course]
 horizontal: false
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 <!-- pages/teaching.md -->

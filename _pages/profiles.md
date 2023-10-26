@@ -4,7 +4,7 @@ permalink: /member/
 title: Member
 description: members of the lab 🌱.
 nav: true
-nav_order: 5
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: wsh.jpeg
     content: about_wsh.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
   - align: left
     image: lixia.jpg
     content: about_lixia.md

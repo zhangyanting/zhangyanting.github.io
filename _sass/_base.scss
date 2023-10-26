@@ -183,11 +183,13 @@ blockquote {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  margin-right: 20px;
 
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    font-size: 14px;
 
     p {
       display: inline-block;
@@ -198,7 +200,7 @@ blockquote {
   img {
     max-width: 250px;
     height: 300px;
-    width: 200px;
+    width: 220px;
     object-fit: cover;
   }
 }
@@ -209,7 +211,7 @@ blockquote {
 }
 
 .profile.float-left {
-  margin-right: 1rem;
+  margin-right: 2rem;
 }
 
 .member.float-right {

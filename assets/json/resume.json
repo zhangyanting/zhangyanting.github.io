@@ -4,7 +4,7 @@
     "label": "Lecturer",
     "image": "",
     "email": "ytzhang@dhu.edu.cn",
-    "phone": "188-0116-9082",
+    "office": "Room 249, College Building No. 1",
     "url": "https://cst.dhu.edu.cn/2020/1201/c3131a270546/page.htm",
     "location": {
       "address": "2712 Broadway St",
@@ -40,15 +40,22 @@
       "institution": "Beijing University of Post and Telecommunications",
       "area": "Information and Communication Engineering",
       "studyType": "Ph.D.",
-      "startDate": "2015-09",
-      "endDate": "2020-07"
+      "startDate": "2015",
+      "endDate": "2020"
+    },
+    {
+      "institution": "University of Washington (Seattle)",
+      "area": "Electrical Computer Engineering",
+      "studyType": "Visiting Scholar",
+      "startDate": "2018",
+      "endDate": "2019"
     },
     {
       "institution": "Beijing University of Post and Telecommunications",
       "area": "Digital Media Technology",
       "studyType": "Bechelor",
-      "startDate": "2011-09",
-      "endDate": "2015-07"
+      "startDate": "2011",
+      "endDate": "2015"
     }
   ],
   "awards": [

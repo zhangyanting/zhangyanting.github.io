@@ -5,7 +5,7 @@ permalink: /projects/
 description: research interest and full paper.
 nav: true
 nav_order: 2
-display_categories: [research interests, about]
+display_categories: [Research interests]
 horizontal: false
 ---
 
