@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: research interest and full paper.
+description: Research interest and full paper.
 nav: true
 nav_order: 2
 display_categories: [Research interests]
