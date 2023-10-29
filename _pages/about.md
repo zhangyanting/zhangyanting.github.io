@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Yanting Zhang (张艳婷) received her bachelor's degree and Ph.D. degree in engineering from Beijing University of Posts and Telecommunications in 2015 and 2020 respectively. In 2017, Zhang participated in inter-school exchange at Tohoku University in Japan. From 2018 to 2019, she received a joint training program from the University of Washington (Seattle). Since September 2020, she has served as a lecturer at the School of Computer Science and Technology of Donghua University, engaged in teaching and scientific research in artificial intelligence, computer vision, etc., and has published more than 30 papers in domestic and foreign journals and conferences. Her research involves autonomous driving, human pose estimation, etc., and presided over the National Natural Science Foundation Youth Project, Shanghai "Sail Plan" talent project, etc.
- <a href='https://jellyshuang.github.io/cv/'> For detailed introduction, see CV📄 </a>
+ <a href='https://jellyshuang.github.io/cv/'> For detailed introduction, see CV📄.</a>
 
 ###### 🎯 **Research Interests**: Artificial Intelligence, Computer Vision
 

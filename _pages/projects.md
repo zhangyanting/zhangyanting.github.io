@@ -2,11 +2,12 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Research interest and full paper.
+description: Research interest and representive paper
 nav: true
 nav_order: 2
 display_categories: [Research interests]
 horizontal: false
+related_publications: zhang2023translink, zhang2019bundle, cao2023difffashion, zhang2023learning, zhang2022automatic,
 ---
 
 <!-- pages/projects.md -->
@@ -56,5 +57,4 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
-
 
