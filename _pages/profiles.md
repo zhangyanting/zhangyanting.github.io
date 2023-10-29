@@ -37,4 +37,8 @@ profiles:
     image: zwg.jpg
     content: about_zwg.md
     image_circular: true # crops the image to make it circular
+  - align: left
+    image: tfy-life.jpg
+    content: about_tfy.md
+    image_circular: true # crops the image to make it circular
 ---

@@ -6,8 +6,18 @@ layout: default
 <style>
   .article-inner {
     display: flex;
+    flex-direction: column;
     justify-content: space-around;
     align-items: flex-start;
+  }
+
+  @media (min-width: 576px) {
+    .article-inner {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: flex-start;
+    }
   }
 </style>
 <div class="post">
