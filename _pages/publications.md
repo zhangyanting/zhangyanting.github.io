@@ -9,6 +9,6 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 <div><strong>Selected Works <a href="full_list">(FULL LIST)</a></strong></div>
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography -f {{ site.scholar.bibliography }} -q @*[publications=true] %}
 
 </div>

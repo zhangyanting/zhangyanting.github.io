@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Research interest and representive paper
+description: Research interest and related paper.
 nav: true
 nav_order: 2
 display_categories: [Research interests]
