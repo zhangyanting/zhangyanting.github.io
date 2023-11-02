@@ -35,7 +35,7 @@ Yanting Zhang (张艳婷) received B.E. degree and Ph.D. degree in School of Inf
 • &nbsp; AI Fashion: Clothing generation, virtual fitting -->
 
 
-<a style="text-decoration:none;" href="javascript:void(0)">🙋‍♂️ Students who are interested in these fields are welcome to join the team.  </a>
+<a style="text-decoration:none;" href="javascript:void(0)">🙋‍♂️ 欢迎对相关领域感兴趣的研究生、本科生加入团队</a>
 
 <!-- <div style="color:rgb(181, 9, 172); margin-bottom: 100px;">📥 Contact me by email.</div> -->
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
