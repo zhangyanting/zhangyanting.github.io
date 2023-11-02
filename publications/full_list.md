@@ -4,7 +4,7 @@ layout: page
 
 <!-- (* Equal contribution, † Interns, # Corresponding authors) -->
 <div class="section" id="full-paper">
-    <h2>Proceedings</h2>
+    <h2>Conference Papers</h2>
     <div class="paper">
         <ul>
             <td>
@@ -25,7 +25,7 @@ layout: page
             </td>
             <td>
                 <b>4. Rui Fan, Yikang Zhang, Sicen Guo, Jiahang Li, Yi Feng, Shuai Su, Yanting Zhang, Wenshuo Wang, Yu Jiang, Mohammud Junaid Bocus, Xingyi Zhu, and Qijun Che, Urban Digital Twins for Intelligent Road Inspection, IEEE International Conference on Big Data (BigData), 2022.12.17-2022.12.20. (CCF C)</b>
-                <br><a href="https://arxiv.org/abs/2212.10156">[Paper]</a><br>
+                <br><a href="https://ieeexplore.ieee.org/document/10021042">[Paper]</a><br>
             </td>
             <td>
                 <b>5. Yanting Zhang*, Qing’ao Wang, Fuyu Tu, Zijian Wang*, Automatic Moving Pose Grading for Golf Swing in Sports, IEEE International Conference on Image Processing (ICIP), Bordeaux, France, 2022.10.16-2022.10.19. (CCF C)</b>
@@ -56,7 +56,7 @@ layout: page
                 <br><a href="https://openaccess.thecvf.com/content/ICCV2021W/DSC/papers/Zhang_Pedestrian_Tracking_Through_Coordinated_Mining_of_Multiple_Moving_Cameras_ICCVW_2021_paper.pdf">[Paper]</a><br>
             </td>            
             <td>
-                <b>12.  Cairong Yan, An’an Ding, Yanting Zhang, and Zijian Wang, Learning Fashion Similarity Based on Hierarchical Attribute Embedding, IEEE International Conference on Data Science and Advanced Analytics (DSAA), Porto, Portugal, 2021.10.06-2021.10.09. (CCF C</b>
+                <b>12.  Cairong Yan, An’an Ding, Yanting Zhang, and Zijian Wang, Learning Fashion Similarity Based on Hierarchical Attribute Embedding, IEEE International Conference on Data Science and Advanced Analytics (DSAA), Porto, Portugal, 2021.10.06-2021.10.09. (CCF C)</b>
                 <br><a href="https://ieeexplore.ieee.org/document/9564236">[Paper]</a><br>
             </td>            
             <td>
@@ -117,7 +117,6 @@ layout: page
             </td>            
             <td>
                 <b>27.  Yanting Zhang*, Yuanyuan Qiao*, Junhua He, Shuangshuang Han, and Jie Yang, Discovering Online Shopping Preferences in Different Urban Area from the View of Mobile Traffic Patterns. International Joint Conference on Artificial Intelligence - The Third International Workshop Representation Learning for Graphs (IJCAI-ReLiG), Melbourne, Australia, 2017.08.19-2017.08.25. (CCF A) </b>
-                <br><a href="https://arxiv.org/pdf/2205.08534.pdf">[Paper]</a><br>
             </td>            
             <td>
                 <b>28.  Yuanyuan Qiao*, Yanting Zhang*, Anders Lindgren, and Jie Yang, Understanding Online Shopping and Offline Mobility Behavior in Urban Area from the View of Multilayer Network. IEEE International Conference on Network Infrastructure and Digital Content (IC-NIDC), Beijing, China, 2016.09.23-2016.09.25. Best paper award. </b>
@@ -128,7 +127,7 @@ layout: page
 </div>
 
 <div class="section">
-    <h2>Journal</h2>
+    <h2>Journal Papers</h2>
     <div class="paper">
         <ul>
             <td>

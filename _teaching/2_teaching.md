@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Computer Vision
-description: Object detection, 3D pose estimation
+description: Object detection, Camera model, Epipolar geometry
 img: assets/img/computer-vision.jpg
 importance: 2
-category: Course
+category: Courses
 related_publications: einstein1956investigations, einstein1950meaning
 ---

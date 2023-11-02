@@ -12,12 +12,61 @@ layout: page
       object-fit: cover;
       object-position: center 10%;
     }
+
+    h2.category {
+      color: var(--global-divider-color);
+      border-bottom: 1px solid var(--global-divider-color);
+      padding-top: 0.5rem;
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+      text-align: right;
+    }
   </style>
 
   <article>
     {% if page.profiles -%}
+    <h2 class="category">Master Students</h2>
     {% for profile in page.profiles %}
+    {%- if profile.not_first -%}
     <hr>
+    {%- endif -%}
+    <div class="member float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+      {%- if profile.image %}
+      {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}
+
+      {% if profile.image_circular %}
+      {%- assign profile_image_class = "member-img img-fluid z-depth-1 rounded-circle" -%}
+      {% else %}
+      {%- assign profile_image_class = "member-img img-fluid z-depth-1 rounded" -%}
+      {% endif %}
+
+      {% include figure.html
+      path=profile_image_path
+      class=profile_image_class
+      alt=profile.image -%}
+      {% endif -%}
+      {%- if profile.more_info %}
+      <div class="more-info">
+        {{ profile.more_info }}
+      </div>
+      {%- endif %}
+    </div>
+
+    <div class="clearfix">
+      {% if profile.content -%}
+      {% capture profile_content %}{%- include_relative {{ profile.content }} %}{% endcapture %}
+      {{ profile_content | markdownify }}
+      {%- else -%}
+      {{ content }}
+      {%- endif %}
+    </div>
+
+    {% endfor %}
+    {%- endif %}
+
+    {% if page.profiles2 -%}
+    <h2 class="category">Graduated Students</h2>
+    {% for profile in page.profiles2 %}
     <div class="member float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
       {%- if profile.image %}
       {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}

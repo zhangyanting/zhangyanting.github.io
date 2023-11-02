@@ -5,6 +5,6 @@ description: Diffusion-based fashion design
 img: assets/img/publication_preview/dffFashion.jpg
 importance: 2
 AI_Fashion: true
-category: Research interests
+category: Research Topics
 giscus_comments: true
 ---

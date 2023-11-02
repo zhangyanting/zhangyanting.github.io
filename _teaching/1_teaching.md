@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Deep Learning
-description: Nerual network, Convolutional neural networks 
+description: Nerual network, Image classification 
 img: assets/img/deep-learning.jpg
 importance: 1
-category: Course
+category: Courses
 related_publications: einstein1956investigations, einstein1950meaning
 ---

@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Research interest and related paper.
+description: Research topics and related papers 📝.
 nav: true
 nav_order: 2
-display_categories: [Research interests]
+display_categories: [Research Topics]
 horizontal: false
 related_publications: zhang2023translink, zhang2019bundle, cao2023difffashion, zhang2023learning, zhang2022automatic,
 ---

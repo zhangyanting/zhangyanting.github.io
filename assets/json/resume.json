@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Yanting Zhang",
-    "label": "Lecturer",
+    "position": "Assistant Professor",
     "image": "",
     "email": "ytzhang@dhu.edu.cn",
     "office": "Room 249, College Building No. 1",
@@ -24,7 +24,7 @@
   "work": [
     {
       "name": "Donghua University",
-      "position": "Lecturer",
+      "position": "Assistant Professor",
       "url": "https://cst.dhu.edu.cn/2020/1201/c3131a270546/page.htm",
       "startDate": "2020.09",
       "endDate": "now",
