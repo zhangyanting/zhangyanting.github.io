@@ -20,7 +20,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Yanting Zhang (张艳婷) received B.E. degree and Ph.D. degree in School of Information and Communication Engineering from Beijing University of Posts and Telecommunications in
-2015 and 2020, respectively. She used to be a visiting scholar at the University of Washington (Seattle) from 2018 to 2019. She is currently an Assistant Professor in the School of Computer Science and Technology at Donghua University. Her research interests fall in artificial intelligence and computer vision. She has published more than 30 papers in related academic areas, including IEEE T-MM, T-VT, ICME, ICIP, ICASSP. Her research involves autonomous driving, human pose analysis, and generative models about fashion. For more info, please see the <a href='https://jellyshuang.github.io/cv/'> curriculum vitae 📄.</a>
+2015 and 2020, respectively. She used to be a visiting scholar at the University of Washington (Seattle) from 2018 to 2019. She is currently an Assistant Professor in the School of Computer Science and Technology at Donghua University. 
+
+Her research interests fall in artificial intelligence and computer vision. She has published more than 30 papers in related academic areas, including IEEE T-MM, T-VT, ICME, ICIP, ICASSP. Her research involves autonomous driving, human pose analysis, and generative models about fashion. For more info, please see the <a href='https://jellyshuang.github.io/cv/'> curriculum vitae 📄.</a>
 
 
 ###### 🎯 **Research Interests**: Artificial Intelligence, Computer Vision
