@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computer Vision
-description: Object detection, Camera model, Epipolar geometry
+description: Camera model, Epipolar geometry
 img: assets/img/computer-vision.jpg
 importance: 2
 category: Courses

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Laboratory member Wang Shuanghong won the National Scholarship for Postgraduate Students. Congrats :sparkles:!
+Lab member Wang Shuanghong won the National Scholarship for Postgraduate Students. Congrats :sparkles:!
