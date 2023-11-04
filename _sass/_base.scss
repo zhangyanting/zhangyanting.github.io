@@ -619,6 +619,8 @@ footer.sticky-bottom {
 // Projects
 
 .projects {
+  margin-bottom: 2rem;
+
   a {
     text-decoration: none;
 
@@ -665,7 +667,7 @@ footer.sticky-bottom {
 // Publications
 
 .publications {
-  margin-top: 2rem;
+  // margin-top: 2rem;
 
   h1 {
     color: var(--global-theme-color);
@@ -690,6 +692,11 @@ footer.sticky-bottom {
     margin-top: 2rem;
     margin-bottom: -2rem;
     text-align: right;
+  }
+
+  h2.bibliography:first-child {
+    margin-top: 0;
+    // padding-top: 0;
   }
 
   ol.bibliography {
