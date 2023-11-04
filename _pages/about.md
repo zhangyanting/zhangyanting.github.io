@@ -9,7 +9,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Assistant Professor</p>
-    <p>Donghua University<br></p>
+    <p>Donghua University</p>
+    <h2> </h2>
+    <h2> </h2>
     <p><strong> Email: </strong> ytzhang@dhu.edu.cn</p>
     <p><strong> Webpage:</strong><a href="https://cst.dhu.edu.cn/2020/1201/c3131a270546/page.htm">[Web]</p>
 
