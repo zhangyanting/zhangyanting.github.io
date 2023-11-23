@@ -49,6 +49,4 @@ profiles2:
     image: tfy-life.jpg
     content: about_tfy.md
     image_circular: true # crops the image to make it circular 
-    more_info: >
-      <p>2021.09 ~ 2023.06</p>
 ---
