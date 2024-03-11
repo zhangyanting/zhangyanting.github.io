@@ -20,9 +20,9 @@ layout: page
                 <br>
             </td>
             <td>
-                <b>3. Meiqi Sun, Zhonghan Zhao, Wenhao Chai, Hanjun Luo, Shidong Cao, Yanting Zhang, Jenq-Neng Hwang, Gaoang Wang, UniAP: Towards Universal Animal Perception in Vision via Few-shot Learning, The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF A).</b>
+                <b>3. Yu Han, Ziwei Long, Yanting Zhang, Jin Wu, Zhijun Fang, Rui Fan, Generalized Correspondence Matching via Flexible Hierarchical Refinement and Patch Descriptor Distillation, International Conference on Robotics and Automation (ICRA), 2024. (CCF B)</b>
                 <br>
-                <a href="https://arxiv.org/pdf/2308.09953">[Paper]</a>
+                <a href="https://www.researchgate.net/profile/Jin-Wu-5/publication/378139149_Generalized_Correspondence_Matching_via_Flexible_Hierarchical_Refnement_and_Patch_Descriptor_Distillation/links/65c8d83b790074549771dc0f/Generalized-Correspondence-Matching-via-Flexible-Hierarchical-Refnement-and-Patch-Descriptor-Distillation.pdf">[Paper]</a>
                 <br>
             </td>
             <td>
