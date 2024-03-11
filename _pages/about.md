@@ -29,10 +29,10 @@ Her research interests fall in artificial intelligence and computer vision. She 
 For more info, please see the <a href='https://zhangyanting.github.io/cv/'> curriculum vitae 📄.</a>
 
 
-###### 🎯 **Research Interests**: Artificial Intelligence, Computer Vision
+###### 🎯 **Research Interests**: Computer Vision
 
 
-###### 🎯 **Research Topics**: AI Traffic, AI Sport, AI Fashion
+###### 🎯 **Research Topics**: Traffic, Sport, Fashion
 
 <!-- • &nbsp; AI Traffic: Multi-object tracking，Multi-moving camera tracking
 
