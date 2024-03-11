@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Yanting Zhang",
-    "position": "Assistant Professor",
+    "position": "Associate Professor",
     "image": "",
     "email": "ytzhang@dhu.edu.cn",
     "office": "Room 249, College Building No. 1",
@@ -27,11 +27,16 @@
       "position": "Assistant Professor",
       "url": "https://cst.dhu.edu.cn/2020/1201/c3131a270546/page.htm",
       "startDate": "2020.09",
+      "endDate": "2023.08",
+      "highlights": []
+    },
+    {
+      "name": "Donghua University",
+      "position": "Associate Professor",
+      "url": "https://cst.dhu.edu.cn/2020/1201/c3131a270546/page.htm",
+      "startDate": "2023.09",
       "endDate": "now",
-      "highlights": [
-        "Deep Learning",
-        "Computer Vision"
-      ]
+      "highlights": []
     }
   ],
   "volunteer": [],
@@ -60,33 +65,31 @@
   ],
   "awards": [
     {
-      "title":"东华大学计算机科学与技术学院教师讲课竞赛 一等奖",
-      "date":"2023-11"
+      "title": "东华大学青年教师教学大赛 二等奖",
+      "date": "2023-12"
     },
     {
-      "title":"东华大学五四表彰 师德建设青年标兵",
-      "date":"2022-05"
+      "title": "东华大学五四表彰 师德建设青年标兵",
+      "date": "2022-05"
     },
     {
-      "title":"上海高校新聘研究生导师培训“育人传道”导师论坛 最佳人气奖",
-      "date":"2021-11"
+      "title": "上海高校新聘研究生导师培训“育人传道”导师论坛 最佳人气奖",
+      "date": "2021-11"
     },
     {
       "title": "东华大学计算机科学与技术学院青年教师讲课竞赛 一等奖",
-      "date":"2020-12"
+      "date": "2020-12"
     },
     {
       "title": "北京邮电大学 优秀毕业生",
-      "date":"2020-06"
+      "date": "2020-06"
     }
   ],
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-  ],
-  "interests": [
-  ],
+  "languages": [],
+  "interests": [],
   "references": [],
   "projects": []
 }
