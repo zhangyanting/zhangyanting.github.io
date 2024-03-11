@@ -26,7 +26,7 @@ Yanting Zhang (张艳婷) received B.E. degree and Ph.D. degree in School of Inf
 
 Her research interests fall in artificial intelligence and computer vision. She has published more than 30 papers in related academic areas, including IEEE T-MM, T-VT, ICME, ICIP, ICASSP. Her research involves autonomous driving, human pose analysis, and generative models about fashion. 
 
-For more info, please see the <a href='https://jellyshuang.github.io/cv/'> curriculum vitae 📄.</a>
+For more info, please see the <a href='https://zhangyanting.github.io/cv/'> curriculum vitae 📄.</a>
 
 
 ###### 🎯 **Research Interests**: Artificial Intelligence, Computer Vision
