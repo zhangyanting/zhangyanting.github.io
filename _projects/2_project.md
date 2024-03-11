@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI Fashion
+title: Fashion Generation
 description: Diffusion-based fashion design
 img: assets/img/publication_preview/dffFashion.jpg
 importance: 3

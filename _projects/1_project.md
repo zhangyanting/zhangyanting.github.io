@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI Traffic
+title: Intelligent Traffic
 description: Multi-object tracking (MOT), Cross-camera tracking
 img: assets/img/iccvw.jpg
 importance: 1
