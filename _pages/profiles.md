@@ -61,7 +61,7 @@ profiles2:
     content: about_tfy.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: wsh-life.jpeg
+    image: wsh-life.jpg
     content: about_wsh.md
     image_circular: true # crops the image to make it circular 
 ---
