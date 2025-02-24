@@ -43,9 +43,24 @@ profiles:
     content: about_zwg.md
     image_circular: true # crops the image to make it circular
     not_first: true
+  - align: left
+    image: hwj.jpg
+    content: about_hwj.md
+    image_circular: true # crops the image to make it circular
+    not_first: true
+  - align: right
+    image: gyz.jpg
+    content: about_gyz.md
+    image_circular: true # crops the image to make it circular
+    not_first: true
+  - align: left
+    image: fn.jpg
+    content: about_fn.md
+    image_circular: true # crops the image to make it circular
+    not_first: true
 
 profiles2:
-  - align: left
+  - align: right
     image: tfy-life.jpg
     content: about_tfy.md
     image_circular: true # crops the image to make it circular 
