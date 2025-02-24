@@ -1,0 +1,3 @@
+Wujian Huang's (黄巫键) research focuses on object detection and object tracking and is a 24th master student of Donghua University. He is highly interested in detecting, localizing, and tracking objects in complex scenes, aiming to achieve robust real-time identification and continuous monitoring of targets through the application of computer vision, deep learning frameworks, and multi-modal data analysis. 
+
+📨 email: wjian_h21@yeah.net
