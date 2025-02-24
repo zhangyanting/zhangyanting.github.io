@@ -9,10 +9,6 @@ nav_order: 4
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
-    image: wsh.jpeg
-    content: about_wsh.md
-    image_circular: true # crops the image to make it circular
   - align: left
     image: lixia.jpg
     content: about_lixia.md
@@ -60,6 +56,10 @@ profiles:
     not_first: true
 
 profiles2:
+  - align: left
+    image: wsh.jpeg
+    content: about_wsh.md
+    image_circular: true # crops the image to make it circular
   - align: right
     image: tfy-life.jpg
     content: about_tfy.md
