@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by IEEE T-CSVT.
+One paper was accepted by IEEE T-CSVT. :sparkles: :smile:

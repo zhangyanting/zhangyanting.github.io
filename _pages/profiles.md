@@ -57,11 +57,11 @@ profiles:
 
 profiles2:
   - align: left
-    image: wsh.jpeg
-    content: about_wsh.md
-    image_circular: true # crops the image to make it circular
-  - align: right
     image: tfy-life.jpg
     content: about_tfy.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: wsh-life.jpeg
+    content: about_wsh.md
     image_circular: true # crops the image to make it circular 
 ---
