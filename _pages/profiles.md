@@ -65,4 +65,5 @@ profiles2:
     image: wsh-life.jpg
     content: about_wsh.md
     image_circular: true # crops the image to make it circular 
+    not_first: true
 ---
