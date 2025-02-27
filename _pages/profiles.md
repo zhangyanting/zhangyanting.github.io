@@ -13,7 +13,7 @@ profiles:
     image: lixia.jpg
     content: about_lixia.md
     image_circular: true # crops the image to make it circular
-    not_first: true
+    not_first: false
   - align: right
     image: zhw.jpg
     content: about_zhw.md
@@ -60,6 +60,7 @@ profiles2:
     image: tfy-life.jpg
     content: about_tfy.md
     image_circular: true # crops the image to make it circular
+    not_first: false
   - align: right
     image: wsh-life.jpg
     content: about_wsh.md
