@@ -28,7 +28,6 @@ layout: page
     <h2 class="category">Master Students</h2>
     {% for profile in page.profiles %}
     {%- if profile.not_first -%}
-    <hr>
     {%- endif -%}
     <div class="member float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
       {%- if profile.image %}
