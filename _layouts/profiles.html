@@ -66,10 +66,10 @@ layout: page
 
     {% if page.profiles2 -%}
     <h2 class="category">Graduated Students</h2>
+    {% for profile in page.profiles2 %}
     {%- if profile.not_first -%}
     <hr>
     {%- endif -%}
-    {% for profile in page.profiles2 %}
     <div class="member float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
       {%- if profile.image %}
       {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}

@@ -35,8 +35,8 @@
     <!-- Title -->
     <div class="title">{{entry.title}}</div>
     <!-- Author -->
-    <div class="author">
-      {% assign author_array_size = entry.author_array | size %}
+    <div class="author">{{entry.author}}
+      <!-- {% assign author_array_size = entry.author_array | size %}
 
       {% assign author_array_limit = author_array_size %}
       {%- if site.max_author_limit and author_array_size > site.max_author_limit %}
@@ -103,7 +103,7 @@
                   }
               }, '{{site.more_authors_animation_delay}}');
               ">{{more_authors_hide}}</span>
-      {%- endif -%}
+      {%- endif -%} -->
 
     </div>
 
