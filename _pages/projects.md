@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 display_categories: [Research Topics]
 horizontal: false
-related_publications: zhang2023translink, zhang2019bundle, cao2023difffashion, zhang2023learning, zhang2022automatic,
+related_publications: zhang2023translink, zhang2019bundle, cao2023difffashion, zhang2023learning, zhang2022automatic, luo2025archcad, wei2025pointorline,
 ---
 
 <!-- pages/projects.md -->
