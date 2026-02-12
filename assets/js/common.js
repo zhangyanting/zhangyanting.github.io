@@ -47,20 +47,47 @@ $(document).ready(function() {
   });
 
   // Smooth scroll for anchor links (excluding GitHub links and other external links)
-  $('a[href^="#"]').on('click', function(e) {
+  // Use event delegation to handle dynamically loaded content
+  $(document).on('click', 'a[href^="#"]', function(e) {
     // Skip if it's a GitHub icon link or other special links
-    if ($(this).hasClass('gh-icon') || $(this).parent().hasClass('github-icon')) {
+    var $link = $(this);
+    if ($link.hasClass('gh-icon') || $link.parent().hasClass('github-icon') || $link.closest('.github-icon').length) {
       return;
     }
+    
     var href = this.getAttribute('href');
-    if (href && href !== '#') {
+    if (href && href !== '#' && href !== '#!') {
       var target = $(href);
+      
+      // If target exists, scroll to it
       if (target.length) {
         e.preventDefault();
+        e.stopPropagation();
         var offset = $('.navbar').outerHeight() || 0;
+        var scrollTarget = target.offset().top - offset - 20;
         $('html, body').stop().animate({
-          scrollTop: target.offset().top - offset - 20
-        }, 500);
+          scrollTop: scrollTarget
+        }, 500, 'swing');
+      } else {
+        // If target doesn't exist yet (e.g., bibliography not rendered), wait and retry
+        e.preventDefault();
+        e.stopPropagation();
+        var attempts = 0;
+        var maxAttempts = 10;
+        var checkInterval = setInterval(function() {
+          attempts++;
+          target = $(href);
+          if (target.length || attempts >= maxAttempts) {
+            clearInterval(checkInterval);
+            if (target.length) {
+              var offset = $('.navbar').outerHeight() || 0;
+              var scrollTarget = target.offset().top - offset - 20;
+              $('html, body').stop().animate({
+                scrollTop: scrollTarget
+              }, 500, 'swing');
+            }
+          }
+        }, 100);
       }
     }
   });
