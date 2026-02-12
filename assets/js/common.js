@@ -59,6 +59,21 @@ $(document).ready(function() {
     if (href && href !== '#' && href !== '#!') {
       var target = $(href);
       
+      // Special handling for bibliography category anchors
+      var categoryMap = {
+        '#ai-traffic': 'AI Traffic',
+        '#ai-sport': 'AI Sport',
+        '#ai-fashion': 'AI Fashion',
+        '#ai-arch': 'AI Arch'
+      };
+      
+      // If target doesn't exist, try to find by category name
+      if (!target.length && categoryMap[href]) {
+        target = $('h2.bibliography').filter(function() {
+          return $(this).text().trim() === categoryMap[href];
+        });
+      }
+      
       // If target exists, scroll to it
       if (target.length) {
         e.preventDefault();
@@ -77,6 +92,14 @@ $(document).ready(function() {
         var checkInterval = setInterval(function() {
           attempts++;
           target = $(href);
+          
+          // Try category mapping on retry too
+          if (!target.length && categoryMap[href]) {
+            target = $('h2.bibliography').filter(function() {
+              return $(this).text().trim() === categoryMap[href];
+            });
+          }
+          
           if (target.length || attempts >= maxAttempts) {
             clearInterval(checkInterval);
             if (target.length) {
