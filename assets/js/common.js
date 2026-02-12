@@ -45,5 +45,24 @@ $(document).ready(function() {
       });
     }
   });
+
+  // Smooth scroll for anchor links (excluding GitHub links and other external links)
+  $('a[href^="#"]').on('click', function(e) {
+    // Skip if it's a GitHub icon link or other special links
+    if ($(this).hasClass('gh-icon') || $(this).parent().hasClass('github-icon')) {
+      return;
+    }
+    var href = this.getAttribute('href');
+    if (href && href !== '#') {
+      var target = $(href);
+      if (target.length) {
+        e.preventDefault();
+        var offset = $('.navbar').outerHeight() || 0;
+        $('html, body').stop().animate({
+          scrollTop: target.offset().top - offset - 20
+        }, 500);
+      }
+    }
+  });
 });
 
