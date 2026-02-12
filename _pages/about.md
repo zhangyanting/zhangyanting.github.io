@@ -13,7 +13,7 @@ profile:
     <h2> </h2>
     <h2> </h2>
     <p><strong> Email: </strong> ytzhang@dhu.edu.cn</p>
-    <p><strong> Webpage:</strong><a href="https://cst.dhu.edu.cn/2020/1201/c3131a270546/page.htm">[Web]</p>
+    <p><strong> Webpage:</strong><a href="https://cst.dhu.edu.cn/2020/1201/c3131a270546/page.htm">[Web]</a></p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
