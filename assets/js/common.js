@@ -61,10 +61,10 @@ $(document).ready(function() {
       
       // Special handling for bibliography category anchors
       var categoryMap = {
-        '#ai-traffic': 'AI Traffic',
-        '#ai-sport': 'AI Sport',
-        '#ai-fashion': 'AI Fashion',
-        '#ai-arch': 'AI Arch'
+        '#ai-traffic': 'Traffic',
+        '#ai-sport': 'Sport',
+        '#ai-fashion': 'Fashion',
+        '#ai-arch': 'Arch'
       };
       
       // If target doesn't exist, try to find by category name
