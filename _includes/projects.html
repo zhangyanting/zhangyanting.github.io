@@ -4,14 +4,16 @@
   {% if project.redirect -%}
   <a>
     {%- else -%}
-    {%- if project.AI_Traffic -%}
-    <a href="#related_paper">
-      {%- elsif project.AI_Fashion -%}
-      <a href="#cao2023difffashioo">
-        {%- else -%}
-        <a href="#zhang2023learninh">
-          {%- endif -%}
-          {%- endif %}
+    {%- if project.AI_Arch -%}
+    <a href="#luo2025archcad">
+      {%- elsif project.AI_Traffic -%}
+      <a href="#related_paper">
+        {%- elsif project.AI_Fashion -%}
+        <a href="#cao2023difffashioo">
+          {%- else -%}
+          <a href="#zhang2023learninh">
+            {%- endif -%}
+            {%- endif %}
           <div class="card hoverable">
             {%- if project.img %}
             {%- include figure.html
