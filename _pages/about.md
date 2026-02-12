@@ -24,15 +24,15 @@ social: true  # includes social icons at the bottom of the page
 Yanting Zhang (张艳婷) received B.E. degree and Ph.D. degree in School of Information and Communication Engineering from Beijing University of Posts and Telecommunications in
 2015 and 2020, respectively. She used to be a visiting scholar at the University of Washington (Seattle) from 2018 to 2019. She is currently an Associate Professor in the School of Computer Science and Technology at Donghua University. 
 
-Her research interests fall in the field of computer vision. She has published more than 40 papers in related academic areas, including IEEE T-VT, IEEE T-MM, IEEE/CVF CVPR, IEEE/CVF ICCVW, IEEE ICRA, IEEE ICME, IEEE ICASSP. Her research involves autonomous driving, human pose analysis, and virtual try-on. 
+Her research interests fall in the field of visual understanding and agent framework. She has published more than 40 papers in related academic areas, including IEEE T-CSVT, IEEE T-MM, IEEE T-ASE, IEEE/CVF CVPR, IEEE ICRA, IEEE ICME, IEEE ICASSP. 
 
 For more info, please see the <a href='https://zhangyanting.github.io/cv/'> curriculum vitae 📄.</a>
 
 
-###### 🎯 **Research Interests**: Computer Vision
+###### 🎯 **Research Interests**: Visual Understanding and LLM Agent
 
 
-###### 🎯 **Research Topics**: Intelligent Transportation, Sport Analysis, Fashion Generation
+###### 🎯 **Research Topics**: Sport Assessment, Agent Framework, Intelligent Transportation, Fashion Generation
 
 <!-- • &nbsp; AI Traffic: Multi-object tracking，Multi-moving camera tracking
 
