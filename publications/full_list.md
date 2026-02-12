@@ -185,13 +185,13 @@ layout: page
     <div class="paper">
         <ul>
             <td>
-                <b>33. Yanting Zhang*, Xia Li, Wenhao Chai, Cairong Yan, Wenhai Wang, and Gaoang Wang, Pose-Guided Transformer for Fine-Grained Action Quality Assessment, IEEE Transactions on Circuits and Systems for Video Technology, 2025.</b>
+                <b>33. Yanting Zhang*, Xia Li, Wenhao Chai, Cairong Yan, Wenhai Wang, and Gaoang Wang, Pose-Guided Transformer for Fine-Grained Action Quality Assessment, IEEE Transactions on Circuits and Systems for Video Technology, 2025. (SCI一区)</b>
                 <br>
                 <a href="https://ieeexplore.ieee.org/abstract/document/10902635">[Paper]</a>
                 <br>
             </td>
             <td>
-                <b>34. Yu Han#, Zhiwei Huang#, Yanting Zhang*, Fangjun Ding, Shen Cai, Xiaoyu Tang, Yanchao Dong, and Rui Fan*, Single-Frame Point-Pixel Registration via Supervised Cross-Modal Feature Matching, IEEE Transactions on Automation Science and Engineering, 2025.</b>
+                <b>34. Yu Han#, Zhiwei Huang#, Yanting Zhang*, Fangjun Ding, Shen Cai, Xiaoyu Tang, Yanchao Dong, and Rui Fan*, Single-Frame Point-Pixel Registration via Supervised Cross-Modal Feature Matching, IEEE Transactions on Automation Science and Engineering, 2025. (SCI二区)</b>
                 <br>
                 <a href="#">[Paper]</a>
                 <br>
