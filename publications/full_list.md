@@ -185,63 +185,63 @@ layout: page
     <div class="paper">
         <ul>
             <td>
-                <b>33. Yanting Zhang*, Xia Li, Wenhao Chai, Cairong Yan, Wenhai Wang, and Gaoang Wang, Pose-Guided Transformer for Fine-Grained Action Quality Assessment, IEEE Transactions on Circuits and Systems for Video Technology, 2025. (SCI一区)</b>
+                <b>1. Yanting Zhang*, Xia Li, Wenhao Chai, Cairong Yan, Wenhai Wang, and Gaoang Wang, Pose-Guided Transformer for Fine-Grained Action Quality Assessment, IEEE Transactions on Circuits and Systems for Video Technology, 2025. (SCI一区)</b>
                 <br>
                 <a href="https://ieeexplore.ieee.org/abstract/document/10902635">[Paper]</a>
                 <br>
             </td>
             <td>
-                <b>34. Yu Han#, Zhiwei Huang#, Yanting Zhang*, Fangjun Ding, Shen Cai, Xiaoyu Tang, Yanchao Dong, and Rui Fan*, Single-Frame Point-Pixel Registration via Supervised Cross-Modal Feature Matching, IEEE Transactions on Automation Science and Engineering, 2025. (SCI二区)</b>
+                <b>2. Yu Han#, Zhiwei Huang#, Yanting Zhang*, Fangjun Ding, Shen Cai, Xiaoyu Tang, Yanchao Dong, and Rui Fan*, Single-Frame Point-Pixel Registration via Supervised Cross-Modal Feature Matching, IEEE Transactions on Automation Science and Engineering, 2025. (SCI二区)</b>
                 <br>
                 <a href="#">[Paper]</a>
                 <br>
             </td>
             <td>
-                <b>35. Shidong Cao+, Wenhao Chai+, Shengyu Hao, Yanting Zhang, Hangyue Chen*, Gaoang Wang*, DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models, IEEE Transactions on Multimedia, 2023. (IF: 8.182, SCI一区)</b>
+                <b>3. Shidong Cao+, Wenhao Chai+, Shengyu Hao, Yanting Zhang, Hangyue Chen*, Gaoang Wang*, DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models, IEEE Transactions on Multimedia, 2023. (IF: 8.182, SCI一区)</b>
                 <br><a href="https://arxiv.org/abs/2302.06826">[Paper]</a><br>
             </td>            
             <td>
-                <b>36. Cairong Yan, Xiaopeng Guan, Haixia Han, Zhaohui Zhang, and Yanting Zhang*, Enhancing Multi-behavior Recommendations through Capturing Dynamic Preferences, Int'l Journal of Software Engineering and Knowledge Engineering (IJSEKE), 2023. (CCF C)</b>
+                <b>4. Cairong Yan, Xiaopeng Guan, Haixia Han, Zhaohui Zhang, and Yanting Zhang*, Enhancing Multi-behavior Recommendations through Capturing Dynamic Preferences, Int'l Journal of Software Engineering and Knowledge Engineering (IJSEKE), 2023. (CCF C)</b>
                 <br><a href="https://www.worldscientific.com/doi/10.1142/S0218194023410012">[Paper]</a><br>
             </td>            
             <td>
-                <b>37. Cairong Yan*, Xiaoke Li*, Yanting Zhang, Zijian Wang, and Yongquan Wan, MIN: Multi-dimensional Interest Network for Click-Through Rate Prediction, Knowledge and Information Systems, 2023. (IF: 2.531, SCI 三区)</b>
+                <b>5. Cairong Yan*, Xiaoke Li*, Yanting Zhang, Zijian Wang, and Yongquan Wan, MIN: Multi-dimensional Interest Network for Click-Through Rate Prediction, Knowledge and Information Systems, 2023. (IF: 2.531, SCI 三区)</b>
                 <br><a href="https://link.springer.com/article/10.1007/s10115-023-01885-8">[Paper]</a><br>
             </td>            
             <td>
-                <b>38.  Cairong Yan*, Haixia Han, Yanting Zhang, and Dandan Zhu, Dynamic Clustering based Contextual Combinatorial Multi-Armed Bandit for Online Recommendation, Knowledge-Based Systems, 2022. (IF: 8.038, SCI一区)</b>
+                <b>6.  Cairong Yan*, Haixia Han, Yanting Zhang, and Dandan Zhu, Dynamic Clustering based Contextual Combinatorial Multi-Armed Bandit for Online Recommendation, Knowledge-Based Systems, 2022. (IF: 8.038, SCI一区)</b>
                 <br><a href="https://www.sciencedirect.com/science/article/pii/S0950705122010206">[Paper]</a><br>
             </td>            
             <td>
-                <b>39.  Yanting Zhang*, Zijian Wang, Ruoning Song, Cairong Yan, and Yonggang Qi, Detection-by-Tracking of Traffic Signs in Videos, Applied Intelligence, 2021.10.23. (IF: 5.086, SCI二区)</b>
+                <b>7.  Yanting Zhang*, Zijian Wang, Ruoning Song, Cairong Yan, and Yonggang Qi, Detection-by-Tracking of Traffic Signs in Videos, Applied Intelligence, 2021.10.23. (IF: 5.086, SCI二区)</b>
                 <br><a href="https://link.springer.com/article/10.1007/s10489-021-02838-w">[Paper]</a><br>
             </td>            
             <td>
-                <b>40.  Zijian Wang, Yanting Zhang, Haibo Shi, Lei Cao*, Cairong Yan, Guangwei Xu, Recurrent Spiking Neural Network with Dynamic Presynaptic Currents Based on Backpropagation, International Journal of Intelligent Systems, 2021. (IF: 8.709, SCI二区)</b>
+                <b>8.  Zijian Wang, Yanting Zhang, Haibo Shi, Lei Cao*, Cairong Yan, Guangwei Xu, Recurrent Spiking Neural Network with Dynamic Presynaptic Currents Based on Backpropagation, International Journal of Intelligent Systems, 2021. (IF: 8.709, SCI二区)</b>
                 <br><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22772">[Paper]</a><br>
             </td>            
             <td>
-                <b>41.  Yaqin Zhu, Xuhang Li, Zijian Wang *, Jiayong Li, Cairong Yan, Yanting Zhang, ER-LAC: Span-based Joint Entity and Relation Extraction Model with Multi-level Lexical and Attention on Context Features, Applied Sciences, 2023. (IF: 2.7, SCI三区)</b>
+                <b>9.  Yaqin Zhu, Xuhang Li, Zijian Wang *, Jiayong Li, Cairong Yan, Yanting Zhang, ER-LAC: Span-based Joint Entity and Relation Extraction Model with Multi-level Lexical and Attention on Context Features, Applied Sciences, 2023. (IF: 2.7, SCI三区)</b>
                 <br><a href="https://www.mdpi.com/2076-3417/13/18/10538">[Paper]</a><br>
             </td>            
             <td>
-                <b>42.  Cairong Yan*, Xiaoke Li, Yizhou Chen, and Yanting Zhang, JointCTR: A Joint CTR Prediction Framework Combining Feature Interaction and Sequential Behavior Learning, Applied Intelligence, 2021,1-14. (IF: 5.086, SCI二区)</b>
+                <b>10.  Cairong Yan*, Xiaoke Li, Yizhou Chen, and Yanting Zhang, JointCTR: A Joint CTR Prediction Framework Combining Feature Interaction and Sequential Behavior Learning, Applied Intelligence, 2021,1-14. (IF: 5.086, SCI二区)</b>
                 <br><a href="https://link.springer.com/article/10.1007/s10489-021-02678-8">[Paper]</a><br>
             </td>            
             <td>
-                <b>43.  Zijian Wang, Yaqin Zhu, Haibo Shi, Yanting Zhang, Cairong Yan, A 3D multiscale view convolutional neural network with attention for mental disease diagnosis on MRI images, Mathematical Biosciences and Engineering, 2021, 18(5): 6978-3994. (IF: 1.285)</b>
+                <b>11.  Zijian Wang, Yaqin Zhu, Haibo Shi, Yanting Zhang, Cairong Yan, A 3D multiscale view convolutional neural network with attention for mental disease diagnosis on MRI images, Mathematical Biosciences and Engineering, 2021, 18(5): 6978-3994. (IF: 1.285)</b>
                 <br><a href="https://pubmed.ncbi.nlm.nih.gov/34517567/">[Paper]</a><br>
             </td>            
             <td>
-                <b>44.  Yanting Zhang*, Haotian Zhang, Gaoang Wang, Jie Yang, and Jenq-Neng Hwang, Bundle Adjustment for Monocular Visual Odometry based on Detections of Traffic Signs, IEEE Transactions on Vehicular Technology, 2019, 69(1): 151-162. (IF: 5.978, SCI二区)</b>
+                <b>12.  Yanting Zhang*, Haotian Zhang, Gaoang Wang, Jie Yang, and Jenq-Neng Hwang, Bundle Adjustment for Monocular Visual Odometry based on Detections of Traffic Signs, IEEE Transactions on Vehicular Technology, 2019, 69(1): 151-162. (IF: 5.978, SCI二区)</b>
                 <br><a href="https://ieeexplore.ieee.org/document/8908733">[Paper]</a><br>
             </td>            
             <td>
-                <b>45.  Yuanyuan Qiao*, Zhongwei Si, Yanting Zhang, Fehmi Ben Abdesslem, Xinyu Zhang, and Jie Yang, A hybrid Markov-based model for human mobility prediction, Neurocomputing, 2018, 278: 99-109. (IF: 5.719, SCI二区)</b>
+                <b>13.  Yuanyuan Qiao*, Zhongwei Si, Yanting Zhang, Fehmi Ben Abdesslem, Xinyu Zhang, and Jie Yang, A hybrid Markov-based model for human mobility prediction, Neurocomputing, 2018, 278: 99-109. (IF: 5.719, SCI二区)</b>
                 <br><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231217314455">[Paper]</a><br>
             </td>
             <td>
-                <b>46.  Jiyang Xie, Zeyu Song, Yupeng Li, Yanting Zhang, Hong Yu, Jinnan Zhan, Zhanyu Ma*, Yuanyuan Qiao, Jianhua Zhang*, and Jun Guo, A survey on machine learning-based mobile big data analysis: Challenges and applications, Wireless Communications and Mobile Computing, 2018. (IF: 2.336)</b>
+                <b>14.  Jiyang Xie, Zeyu Song, Yupeng Li, Yanting Zhang, Hong Yu, Jinnan Zhan, Zhanyu Ma*, Yuanyuan Qiao, Jianhua Zhang*, and Jun Guo, A survey on machine learning-based mobile big data analysis: Challenges and applications, Wireless Communications and Mobile Computing, 2018. (IF: 2.336)</b>
                 <br><a href="https://www.hindawi.com/journals/wcmc/2018/8738613/">[Paper]</a><br>
             </td>
         </ul>
