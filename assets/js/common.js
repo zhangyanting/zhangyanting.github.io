@@ -67,6 +67,16 @@ $(document).ready(function() {
         '#ai-arch': 'Arch'
       };
       
+      // Remove number prefix from bibliography headings (e.g., "1-Sport" -> "Sport")
+      $('h2.bibliography').each(function() {
+        var text = $(this).text().trim();
+        // Match pattern like "1-Sport", "2-Traffic", etc.
+        var match = text.match(/^\d+-(.+)$/);
+        if (match) {
+          $(this).text(match[1]);
+        }
+      });
+      
       // If target doesn't exist, try to find by category name
       if (!target.length && categoryMap[href]) {
         target = $('h2.bibliography').filter(function() {

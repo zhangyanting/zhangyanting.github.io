@@ -871,6 +871,17 @@ footer.sticky-bottom {
     margin-top: 2rem;
     margin-bottom: -2rem;
     text-align: right;
+    
+    // Hide number prefix (e.g., "1-Sport" -> "Sport")
+    &::before {
+      content: '';
+    }
+  }
+  
+  // Remove number prefix from bibliography headings
+  h2.bibliography {
+    // Use CSS to hide the number prefix pattern
+    font-variant-numeric: normal;
   }
 
   ol.bibliography {
