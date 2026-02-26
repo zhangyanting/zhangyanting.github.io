@@ -32,148 +32,160 @@ layout: page
                 <br>
             </td>
             <td>
-                <b>5. Xingguang Wei, Haomin Wang, Shenglong Ye, Ruifeng Luo, Yanting Zhang, Lixin Gu, Jifeng Dai, Yu Qiao, Wenhai Wang, and Hongjie Zhang, Point or Line? Using Line-based Representation for Panoptic Symbol Spotting in CAD Drawings, The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS), San Diego, USA, 2025.12.2-2025.12.7. (CCF A)</b>
+                <b>5. Muyan Zhong, Erfei Cui, Sen Xing, Weiyun Wang, Wen Wu, Yuchen Hu, Yanting Zhang, Xiaowei Hu, Wenhai Wang, Chao Zhang, Jifeng Dai, HAVE-Bench: Hierarchical Audio-Visual Evaluation from Perception to Interaction, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Denver, CO, USA, 2026.06.03-2026.06.07. (CCF A)</b>
                 <br>
                 <a href="#">[Paper]</a>
                 <br>
             </td>
             <td>
-                <b>6. Ruifeng Luo, Zhengjie Liu, Tianxiao Cheng, Jie Wang, Tongjie Wang, Fei Cheng, Fu Chai, Yanpeng Li, Xingguang Wei, Haomin Wang, Shenglong Ye, Wenhai Wang, Yanting Zhang, Yu Qiao, Hongjie Zhang, and Xianzhong Zhao, ArchCAD-400K: A Large-Scale CAD drawings Dataset and New Baseline for Panoptic Symbol Spotting, The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS), San Diego, USA, 2025.12.2-2025.12.7. (CCF A)</b>
+                <b>6. Xuehui Wang, Zhenyu Wu, JingJing Xie, Zichen Ding, Bowen Yang, Zehao Li, Zhaoyang Liu, Qingyun Li, Xuan Dong, Zhe Chen, Weiyun Wang, Xiangyu Zhao, Jixuan Chen, Haodong Duan, Tianbao Xie, Chenyu Yang, Shiqian Su, Yue Yu, Yanting Zhang, Xiangyu Yue, Weijie Su, Xizhou Zhu, Wei Shen, Jifeng Dai, Wenhai Wang, MMBench-GUI: A Unified Hierarchical Evaluation Framework for Multi-Platform GUI Agents, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Denver, CO, USA, 2026.06.03-2026.06.07. (CCF A)</b>
                 <br>
                 <a href="#">[Paper]</a>
                 <br>
             </td>
             <td>
-                <b>7. Enxin Song, Wenhao Chai, Guanhong Wang, Yucheng Zhang, Haoyang Zhou, Feiyang Wu, Haozhe Chi, Xun Guo, Tian Ye, Yanting Zhang, Yan Lu, Jenq-Neng Hwang, Gaoang Wang, MovieChat: From Dense Token to Sparse Memory for Long Video Understanding, IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. (CCF A).</b>
+                <b>7. Xingguang Wei, Haomin Wang, Shenglong Ye, Ruifeng Luo, Yanting Zhang, Lixin Gu, Jifeng Dai, Yu Qiao, Wenhai Wang, and Hongjie Zhang, Point or Line? Using Line-based Representation for Panoptic Symbol Spotting in CAD Drawings, The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS), San Diego, USA, 2025.12.2-2025.12.7. (CCF A)</b>
+                <br>
+                <a href="#">[Paper]</a>
+                <br>
+            </td>
+            <td>
+                <b>8. Ruifeng Luo, Zhengjie Liu, Tianxiao Cheng, Jie Wang, Tongjie Wang, Fei Cheng, Fu Chai, Yanpeng Li, Xingguang Wei, Haomin Wang, Shenglong Ye, Wenhai Wang, Yanting Zhang, Yu Qiao, Hongjie Zhang, and Xianzhong Zhao, ArchCAD-400K: A Large-Scale CAD drawings Dataset and New Baseline for Panoptic Symbol Spotting, The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS), San Diego, USA, 2025.12.2-2025.12.7. (CCF A)</b>
+                <br>
+                <a href="#">[Paper]</a>
+                <br>
+            </td>
+            <td>
+                <b>9. Enxin Song, Wenhao Chai, Guanhong Wang, Yucheng Zhang, Haoyang Zhou, Feiyang Wu, Haozhe Chi, Xun Guo, Tian Ye, Yanting Zhang, Yan Lu, Jenq-Neng Hwang, Gaoang Wang, MovieChat: From Dense Token to Sparse Memory for Long Video Understanding, IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024. (CCF A).</b>
                 <br>
                 <a href="https://arxiv.org/abs/2307.16449">[Paper]</a>
                 <br>
             </td>
             <td>
-                <b>8. Meiqi Sun, Zhonghan Zhao, Wenhao Chai, Hanjun Luo, Shidong Cao, Yanting Zhang, Jenq-Neng Hwang, Gaoang Wang, UniAP: Towards Universal Animal Perception in Vision via Few-shot Learning, The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF A).</b>
+                <b>10. Meiqi Sun, Zhonghan Zhao, Wenhao Chai, Hanjun Luo, Shidong Cao, Yanting Zhang, Jenq-Neng Hwang, Gaoang Wang, UniAP: Towards Universal Animal Perception in Vision via Few-shot Learning, The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF A).</b>
                 <br>
                 <a href="https://arxiv.org/pdf/2308.09953">[Paper]</a>
                 <br>
             </td>
             <td>
-                <b>9. Yu Han, Ziwei Long, Yanting Zhang, Jin Wu, Zhijun Fang, Rui Fan, Generalized Correspondence Matching via Flexible Hierarchical Refinement and Patch Descriptor Distillation, International Conference on Robotics and Automation (ICRA), 2024. (CCF B)</b>
+                <b>11. Yu Han, Ziwei Long, Yanting Zhang, Jin Wu, Zhijun Fang, Rui Fan, Generalized Correspondence Matching via Flexible Hierarchical Refinement and Patch Descriptor Distillation, International Conference on Robotics and Automation (ICRA), 2024. (CCF B)</b>
                 <br>
                 <a href="https://www.researchgate.net/profile/Jin-Wu-5/publication/378139149_Generalized_Correspondence_Matching_via_Flexible_Hierarchical_Refnement_and_Patch_Descriptor_Distillation/links/65c8d83b790074549771dc0f/Generalized-Correspondence-Matching-via-Flexible-Hierarchical-Refnement-and-Patch-Descriptor-Distillation.pdf">[Paper]</a>
                 <br>
             </td>
             <td>
-                <b>10. Yanting Zhang*, Shuanghong Wang, Yuxuan Fan, Gaoang Wang, and Cairong Yan*, TransLink: Transformer-based Embedding for Tracklets' Global Link, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023.6.4-2023.6.10. (CCF B).</b>
+                <b>12. Yanting Zhang*, Shuanghong Wang, Yuxuan Fan, Gaoang Wang, and Cairong Yan*, TransLink: Transformer-based Embedding for Tracklets' Global Link, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023.6.4-2023.6.10. (CCF B).</b>
                 <br>
                 <a href="https://ieeexplore.ieee.org/document/10097136">[Paper]</a>
                 <br>
             </td>
             <td>
-                <b>11. Yanting Zhang, Fuyu Tu, Dandan Zhu, Zijian Wang, and Wenjing Guo, Learning Golf Swing Key Events from Gaussian Soft Labels Using Multi-Scale Temporal MLPFormer, International Joint Conference on Neural Networks (IJCNN), Queensland, Australia, 2023.6.18-2023.6.23. (CCF C)</b>
+                <b>13. Yanting Zhang, Fuyu Tu, Dandan Zhu, Zijian Wang, and Wenjing Guo, Learning Golf Swing Key Events from Gaussian Soft Labels Using Multi-Scale Temporal MLPFormer, International Joint Conference on Neural Networks (IJCNN), Queensland, Australia, 2023.6.18-2023.6.23. (CCF C)</b>
                 <br><a href="https://ieeexplore.ieee.org/document/10191526">[Paper]</a>
                 <br>
             </td>
             <td>
-                <b>12. Cairong Yan*, Hualu Xu, Haixia Han, Yanting Zhang*, and Zijian Wang, Thompson Sampling with Time-Varying Reward for Contextual Bandits, International Conference on Database Systems for Advanced Applications (DASFAA), Tianjin, China, 2023.04.17-2023.04.20. (CCF B)</b>
+                <b>14. Cairong Yan*, Hualu Xu, Haixia Han, Yanting Zhang*, and Zijian Wang, Thompson Sampling with Time-Varying Reward for Contextual Bandits, International Conference on Database Systems for Advanced Applications (DASFAA), Tianjin, China, 2023.04.17-2023.04.20. (CCF B)</b>
                 <br><a href="https://link.springer.com/chapter/10.1007/978-3-031-30672-3_4">[Paper]</a>
                 <br>
             </td>
             <td>
-                <b>13. Rui Fan, Yikang Zhang, Sicen Guo, Jiahang Li, Yi Feng, Shuai Su, Yanting Zhang, Wenshuo Wang, Yu Jiang, Mohammud Junaid Bocus, Xingyi Zhu, and Qijun Che, Urban Digital Twins for Intelligent Road Inspection, IEEE International Conference on Big Data (BigData), 2022.12.17-2022.12.20. (CCF C)</b>
+                <b>15. Rui Fan, Yikang Zhang, Sicen Guo, Jiahang Li, Yi Feng, Shuai Su, Yanting Zhang, Wenshuo Wang, Yu Jiang, Mohammud Junaid Bocus, Xingyi Zhu, and Qijun Che, Urban Digital Twins for Intelligent Road Inspection, IEEE International Conference on Big Data (BigData), 2022.12.17-2022.12.20. (CCF C)</b>
                 <br><a href="https://ieeexplore.ieee.org/document/10021042">[Paper]</a><br>
             </td>
             <td>
-                <b>14. Yanting Zhang*, Qing'ao Wang, Fuyu Tu, Zijian Wang*, Automatic Moving Pose Grading for Golf Swing in Sports, IEEE International Conference on Image Processing (ICIP), Bordeaux, France, 2022.10.16-2022.10.19. (CCF C)</b>
+                <b>16. Yanting Zhang*, Qing'ao Wang, Fuyu Tu, Zijian Wang*, Automatic Moving Pose Grading for Golf Swing in Sports, IEEE International Conference on Image Processing (ICIP), Bordeaux, France, 2022.10.16-2022.10.19. (CCF C)</b>
                 <br><a href="https://ieeexplore.ieee.org/document/9897609">[Paper]</a><br>
             </td>
             <td>
-                <b>15. Yanting Zhang*, Shuanghong Wang, Qingxiang Wang, Qiubo Huang, Cairong Yan*. On-road Pedestrian Tracking across Multiple Moving Cameras, IEEE International Conference on Multimedia and Expo (ICME), Taipei, China, 2022.7.18-2022.7.22. (CCF B)</b>
+                <b>17. Yanting Zhang*, Shuanghong Wang, Qingxiang Wang, Qiubo Huang, Cairong Yan*. On-road Pedestrian Tracking across Multiple Moving Cameras, IEEE International Conference on Multimedia and Expo (ICME), Taipei, China, 2022.7.18-2022.7.22. (CCF B)</b>
                 <br><a href="https://ieeexplore.ieee.org/document/9859815">[Paper]</a><br>
             </td>            
             <td>
-                <b>16. Cairong Yan*, Kang Yan, Yanting Zhang*, Yongquan Wan, Dandan Zhu. Attribute-guided Fashion Image Retrieval by Iterative Similarity Learning, IEEE International Conference on Multimedia and Expo (ICME), Taipei, China, 2022.7.18-2022.7.22. (CCF B)</b>
+                <b>18. Cairong Yan*, Kang Yan, Yanting Zhang*, Yongquan Wan, Dandan Zhu. Attribute-guided Fashion Image Retrieval by Iterative Similarity Learning, IEEE International Conference on Multimedia and Expo (ICME), Taipei, China, 2022.7.18-2022.7.22. (CCF B)</b>
                 <br><a href="https://ieeexplore.ieee.org/document/9859953">[Paper]</a><br>
             </td>            
             <td>
-                <b>17. Yuanzhan Li, Yuqi Liu, Yujie Lu, Siyu Zhang, Shen Cai*, and Yanting Zhang, High-fidelity 3D Model Compression based on Key Spheres, Data Compression Conference (DCC), Snowbird, US, 2022.03.22-2022.03.25. (CCF B)</b>
+                <b>19. Yuanzhan Li, Yuqi Liu, Yujie Lu, Siyu Zhang, Shen Cai*, and Yanting Zhang, High-fidelity 3D Model Compression based on Key Spheres, Data Compression Conference (DCC), Snowbird, US, 2022.03.22-2022.03.25. (CCF B)</b>
                 <br><a href="https://arxiv.org/abs/2201.07486">[Paper]</a><br>
             </td>            
             <td>
-                <b>18. Qiubo Huang, Dachuan Ma, Yanting Zhang*, Guangwei Xu, Research on image synthesis of fabric replacement in suit customization, International Conference on Imaging Systems and Techniques (IST), Kaohsiung, Taiwan, 2022.6.21-2022.6.23.</b>
+                <b>20. Qiubo Huang, Dachuan Ma, Yanting Zhang*, Guangwei Xu, Research on image synthesis of fabric replacement in suit customization, International Conference on Imaging Systems and Techniques (IST), Kaohsiung, Taiwan, 2022.6.21-2022.6.23.</b>
                 <br><a href="https://ieeexplore.ieee.org/document/9827725">[Paper]</a><br>
             </td>            
             <td>
-                <b>19. Yanting Zhang, Jingru Shi, Qingxiang Wang, Zijian Wang*, and Cairong Yan*, An Exploration of Moving Robot Localization Assisted with a Static Monocular Camera, IEEE International Conference on Network Infrastructure and Digital Content (IC-NIDC), Beijing, China, 2021.11.17-2021.11.19.</b>
+                <b>21. Yanting Zhang, Jingru Shi, Qingxiang Wang, Zijian Wang*, and Cairong Yan*, An Exploration of Moving Robot Localization Assisted with a Static Monocular Camera, IEEE International Conference on Network Infrastructure and Digital Content (IC-NIDC), Beijing, China, 2021.11.17-2021.11.19.</b>
                 <br><a href="https://ieeexplore.ieee.org/document/9660409">[Paper]</a><br>
             </td>            
             <td>
-                <b>20. Yanting Zhang*, and Qingxiang Wang, Pedestrian Tracking through Coordinated Mining of Multiple Moving Cameras, IEEE/CVF International Conference on Computer Vision - International Workshop on Distributed Smart Cameras (ICCV-DSC), Montreal, Canada, 2021.10.11-2021.10.17. (CCF A)</b>
+                <b>22. Yanting Zhang*, and Qingxiang Wang, Pedestrian Tracking through Coordinated Mining of Multiple Moving Cameras, IEEE/CVF International Conference on Computer Vision - International Workshop on Distributed Smart Cameras (ICCV-DSC), Montreal, Canada, 2021.10.11-2021.10.17. (CCF A)</b>
                 <br><a href="https://openaccess.thecvf.com/content/ICCV2021W/DSC/papers/Zhang_Pedestrian_Tracking_Through_Coordinated_Mining_of_Multiple_Moving_Cameras_ICCVW_2021_paper.pdf">[Paper]</a><br>
             </td>            
             <td>
-                <b>21.  Cairong Yan, An'an Ding, Yanting Zhang, and Zijian Wang, Learning Fashion Similarity Based on Hierarchical Attribute Embedding, IEEE International Conference on Data Science and Advanced Analytics (DSAA), Porto, Portugal, 2021.10.06-2021.10.09. (CCF C)</b>
+                <b>23.  Cairong Yan, An'an Ding, Yanting Zhang, and Zijian Wang, Learning Fashion Similarity Based on Hierarchical Attribute Embedding, IEEE International Conference on Data Science and Advanced Analytics (DSAA), Porto, Portugal, 2021.10.06-2021.10.09. (CCF C)</b>
                 <br><a href="https://ieeexplore.ieee.org/document/9564236">[Paper]</a><br>
             </td>            
             <td>
-                <b>22.  Cairong Yan, Haixia Han, Zijian Wang, and Yanting Zhang, Two-Phase Multi-armed Bandit for Online Recommendation, IEEE International Conference on Data Science and Advanced Analytics (DSAA), Porto, Portugal, 2021.10.06-2021.10.09. (CCF C)</b>
+                <b>24.  Cairong Yan, Haixia Han, Zijian Wang, and Yanting Zhang, Two-Phase Multi-armed Bandit for Online Recommendation, IEEE International Conference on Data Science and Advanced Analytics (DSAA), Porto, Portugal, 2021.10.06-2021.10.09. (CCF C)</b>
                 <br><a href="https://ieeexplore.ieee.org/document/9564225">[Paper]</a><br>
             </td>            
             <td>
-                <b>23.  Cairong Yan, Shuai Liu*, Yanting Zhang*, Zijian Wang, and Pengwei Wang, A Multi-Task Learning Approach for Recommendation based on Knowledge Graph, International Joint Conference on Neural Networks (IJCNN), Shenzhen, China, 2021.07.18-2021.07.22. (CCF C)</b>
+                <b>25.  Cairong Yan, Shuai Liu*, Yanting Zhang*, Zijian Wang, and Pengwei Wang, A Multi-Task Learning Approach for Recommendation based on Knowledge Graph, International Joint Conference on Neural Networks (IJCNN), Shenzhen, China, 2021.07.18-2021.07.22. (CCF C)</b>
                 <br><a href="https://arxiv.org/abs/1901.08907">[Paper]</a><br>
             </td>            
             <td>
-                <b>24.  Cairong Yan, Yiwei Wang*, Yanting Zhang*, Zijian Wang and Pengwei Wang, Modeling Long- and Short-Term User Behaviors for Sequential Recommendation with Deep Neural Networks, International Joint Conference on Neural Networks (IJCNN), Shenzhen, China, 2021.07.18-2021.07.22. (CCF C)</b>
+                <b>26.  Cairong Yan, Yiwei Wang*, Yanting Zhang*, Zijian Wang and Pengwei Wang, Modeling Long- and Short-Term User Behaviors for Sequential Recommendation with Deep Neural Networks, International Joint Conference on Neural Networks (IJCNN), Shenzhen, China, 2021.07.18-2021.07.22. (CCF C)</b>
                 <br><a href="https://ieeexplore.ieee.org/document/9534103">[Paper]</a><br>
             </td>            
             <td>
-                <b>25.  Siyu Zhang, Hui Cao, Yuqi Liu, Shen Cai*, Yanting Zhang, Yuanzhan Li, and Xiaoyu Chi, SN-Graph: A Minimalist 3D Object Representation for Classification, IEEE International Conference on Multimedia and Expo (ICME), Shenzhen, China, 2021.07.05-2021.07.09. (CCF B)</b>
+                <b>27.  Siyu Zhang, Hui Cao, Yuqi Liu, Shen Cai*, Yanting Zhang, Yuanzhan Li, and Xiaoyu Chi, SN-Graph: A Minimalist 3D Object Representation for Classification, IEEE International Conference on Multimedia and Expo (ICME), Shenzhen, China, 2021.07.05-2021.07.09. (CCF B)</b>
                 <br><a href="https://arxiv.org/abs/2105.14784">[Paper]</a><br>
             </td>            
             <td>
-                <b>26.  Yanting Zhang*, Aotian Zheng, Ke Han, Jie Yang, and Jenq-Neng Hwang, Vehicle 3D Localization in Road Scenes via A Monocular Moving Camera, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, Canada, 2021.06.06-2021.06.11. (CCF B)</b>
+                <b>28.  Yanting Zhang*, Aotian Zheng, Ke Han, Jie Yang, and Jenq-Neng Hwang, Vehicle 3D Localization in Road Scenes via A Monocular Moving Camera, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, Canada, 2021.06.06-2021.06.11. (CCF B)</b>
                 <br><a href="https://ieeexplore.ieee.org/document/9413487">[Paper]</a><br>
             </td>            
             <td>
-                <b>27.  Qiubo Huang, Zibin Zhang, Ting Lu, and Yanting Zhang. Cross-category Virtual Try-on Technology Research Based on PF-AFN, International Conference on Video and Image Processing (ICVIP), Guangzhou, China, 2021.12.22 - 2021.12.25.</b>
+                <b>29.  Qiubo Huang, Zibin Zhang, Ting Lu, and Yanting Zhang. Cross-category Virtual Try-on Technology Research Based on PF-AFN, International Conference on Video and Image Processing (ICVIP), Guangzhou, China, 2021.12.22 - 2021.12.25.</b>
                 <br><a href="https://dl.acm.org/doi/abs/10.1145/3511176.3511201">[Paper]</a><br>
             </td>            
             <td>
-                <b>28.  Weishao Cheng*, Yanting Zhang, Yonggang Qi, Jun Liu, and Fang Liu, A Fast Global Adaptive Solution to Low-light Images Enhancement in Visual SLAM, International Conference on Computer and Communications (ICCC), Chengdu, China, 2020.12.11-2020.12.14.</b>
+                <b>30.  Weishao Cheng*, Yanting Zhang, Yonggang Qi, Jun Liu, and Fang Liu, A Fast Global Adaptive Solution to Low-light Images Enhancement in Visual SLAM, International Conference on Computer and Communications (ICCC), Chengdu, China, 2020.12.11-2020.12.14.</b>
                 <br><a href="https://ieeexplore.ieee.org/document/9344959">[Paper]</a><br>
             </td>            
             <td>
-                <b>29.  Yanting Zhang*, Yonggang Qi, Jie Yang, and Jenq-Neng Hwang, Improved Traffic Sign Detection in Videos through Reasoning Effective RoI Proposals, IEEE International Conference on Multimedia and Expo (ICME), London, UK, 2020.07.06-2020.07.10. (CCF B)</b>
+                <b>31.  Yanting Zhang*, Yonggang Qi, Jie Yang, and Jenq-Neng Hwang, Improved Traffic Sign Detection in Videos through Reasoning Effective RoI Proposals, IEEE International Conference on Multimedia and Expo (ICME), London, UK, 2020.07.06-2020.07.10. (CCF B)</b>
                 <br><a href="https://ieeexplore.ieee.org/document/9102896">[Paper]</a><br>
             </td>            
             <td>
-                <b>30.  Longyin Wen, Pengfei Zhu, …, Yanting Zhang, …, and Zhuojin Sun, VisDrone-MOT2019: The Vision Meets Drone Multiple Object Tracking Challenge Results. IEEE International Conference on Computer Vision Workshops (ICCV-VisDrone), Seoul, Korea, 2019.10.27-2019.11.3. (CCF A)</b>
+                <b>32.  Longyin Wen, Pengfei Zhu, …, Yanting Zhang, …, and Zhuojin Sun, VisDrone-MOT2019: The Vision Meets Drone Multiple Object Tracking Challenge Results. IEEE International Conference on Computer Vision Workshops (ICCV-VisDrone), Seoul, Korea, 2019.10.27-2019.11.3. (CCF A)</b>
                 <br><a href="https://ieeexplore.ieee.org/document/9022306">[Paper]</a><br>
             </td>            
             <td>
-                <b>31.  Yanting Zhang*, Haotian Zhang, Jie Yang, and Jenq-Neng Hwang, Bundle Adjustment for Monocular Visual Odometry based on Detected Traffic Sign Features, IEEE International Conference on Image Processing (ICIP), Taipei, China, 2019.09.22-2019.09.25. (CCF C)</b>
+                <b>33.  Yanting Zhang*, Haotian Zhang, Jie Yang, and Jenq-Neng Hwang, Bundle Adjustment for Monocular Visual Odometry based on Detected Traffic Sign Features, IEEE International Conference on Image Processing (ICIP), Taipei, China, 2019.09.22-2019.09.25. (CCF C)</b>
                 <br><a href="https://ieeexplore.ieee.org/document/8908733">[Paper]</a><br>
             </td>            
             <td>
-                <b>32.  Yanting Zhang*, Ziheng Wang, Yonggang Qi, Jun Liu, and Jie Yang; CTSD: A Dataset for Traffic Sign Recognition in Complex Real-World Images, IEEE Visual Communication and Image Processing Conference (VCIP), Taichung, China, 2018.12.09-2018.12.12. </b>
+                <b>34.  Yanting Zhang*, Ziheng Wang, Yonggang Qi, Jun Liu, and Jie Yang; CTSD: A Dataset for Traffic Sign Recognition in Complex Real-World Images, IEEE Visual Communication and Image Processing Conference (VCIP), Taichung, China, 2018.12.09-2018.12.12. </b>
                 <br><a href="https://ieeexplore.ieee.org/document/8698666">[Paper]</a><br>
             </td>            
             <td>
-                <b>33.  Yi Zhang, Yuanyuan Qiao*, Yanting Zhang, Nanfei Shu, Yizhe Song, and Jie Yang, Find Your Online Social Friends from Mobile Internet Traffic. IEEE International Conference on Network Infrastructure and Digital Content (IC-NIDC), Guiyang, China, 2018.08.22-2018.8.24. </b>
+                <b>35.  Yi Zhang, Yuanyuan Qiao*, Yanting Zhang, Nanfei Shu, Yizhe Song, and Jie Yang, Find Your Online Social Friends from Mobile Internet Traffic. IEEE International Conference on Network Infrastructure and Digital Content (IC-NIDC), Guiyang, China, 2018.08.22-2018.8.24. </b>
                 <br><a href="https://ieeexplore.ieee.org/xpl/conhome/1002985/all-proceedings">[Paper]</a><br>
             </td>            
             <td>
-                <b>34.   Yanting Zhang, Shuaiyu Jin, Yuanyuan Qiao*, Kewu Sun, Hao Zhang, and Jie Yang, Exploring Urban Spatial Hotspots' Properties Using Inter-Connected User-Location Networks, IEEE/CIC International Conference on Communications in China (ICCC), Beijing, China, 2018.08.16-2018.08.18. </b>
+                <b>36.   Yanting Zhang, Shuaiyu Jin, Yuanyuan Qiao*, Kewu Sun, Hao Zhang, and Jie Yang, Exploring Urban Spatial Hotspots' Properties Using Inter-Connected User-Location Networks, IEEE/CIC International Conference on Communications in China (ICCC), Beijing, China, 2018.08.16-2018.08.18. </b>
                 <br><a href="https://ieeexplore.ieee.org/document/8641247">[Paper]</a><br>
             </td>            
             <td>
-                <b>35.   Shuangshuang Han, Yuanyuan Qiao*, Yanting Zhang, Wenhui Lin, and Jie Yang, Analyze Users' Online Shopping Behavior Using Online Interest-Product Network. IEEE Wireless Communications and Networking Conference (WCNC), Barcelona, Spain, 2018.04.15-2018.04.18. (CCF C) </b>
+                <b>37.   Shuangshuang Han, Yuanyuan Qiao*, Yanting Zhang, Wenhui Lin, and Jie Yang, Analyze Users' Online Shopping Behavior Using Online Interest-Product Network. IEEE Wireless Communications and Networking Conference (WCNC), Barcelona, Spain, 2018.04.15-2018.04.18. (CCF C) </b>
                 <br><a href="https://ieeexplore.ieee.org/document/8377235">[Paper]</a><br>
             </td>            
             <td>
-                <b>36.  Yanting Zhang*, Yuanyuan Qiao*, Junhua He, Shuangshuang Han, and Jie Yang, Discovering Online Shopping Preferences in Different Urban Area from the View of Mobile Traffic Patterns. International Joint Conference on Artificial Intelligence - The Third International Workshop Representation Learning for Graphs (IJCAI-ReLiG), Melbourne, Australia, 2017.08.19-2017.08.25. (CCF A) </b>
+                <b>38.  Yanting Zhang*, Yuanyuan Qiao*, Junhua He, Shuangshuang Han, and Jie Yang, Discovering Online Shopping Preferences in Different Urban Area from the View of Mobile Traffic Patterns. International Joint Conference on Artificial Intelligence - The Third International Workshop Representation Learning for Graphs (IJCAI-ReLiG), Melbourne, Australia, 2017.08.19-2017.08.25. (CCF A) </b>
             </td>            
             <td>
-                <b>37.  Yuanyuan Qiao*, Yanting Zhang*, Anders Lindgren, and Jie Yang, Understanding Online Shopping and Offline Mobility Behavior in Urban Area from the View of Multilayer Network. IEEE International Conference on Network Infrastructure and Digital Content (IC-NIDC), Beijing, China, 2016.09.23-2016.09.25. Best paper award. </b>
+                <b>39.  Yuanyuan Qiao*, Yanting Zhang*, Anders Lindgren, and Jie Yang, Understanding Online Shopping and Offline Mobility Behavior in Urban Area from the View of Multilayer Network. IEEE International Conference on Network Infrastructure and Digital Content (IC-NIDC), Beijing, China, 2016.09.23-2016.09.25. Best paper award. </b>
                 <br><a href="https://ieeexplore.ieee.org/document/7974608">[Paper]</a><br>
             </td>
         </ul>
